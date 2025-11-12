@@ -1,0 +1,1001 @@
+"from_state","to_state","direction","naics_sector","avg_n_job"
+"Colorado","Alabama","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Alaska","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Colorado","Arizona","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",6
+"Colorado","Arkansas","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","California","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",14
+"Colorado","Connecticut","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",1
+"Colorado","Delaware","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","District of Columbia","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","Florida","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",6
+"Colorado","Georgia","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Hawaii","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",1
+"Colorado","Idaho","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Illinois","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Indiana","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Iowa","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Kansas","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",9
+"Colorado","Kentucky","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Louisiana","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Maine","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",1
+"Colorado","Maryland","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","Massachusetts","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","Michigan","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Colorado","Minnesota","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","Mississippi","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Colorado","Missouri","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","Montana","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",4
+"Colorado","Nebraska","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",12
+"Colorado","Nevada","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",1
+"Colorado","New Hampshire","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","New Jersey","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",1
+"Colorado","New Mexico","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",9
+"Colorado","New York","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","North Carolina","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Colorado","North Dakota","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Ohio","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Oklahoma","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","Oregon","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Pennsylvania","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","Rhode Island","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","South Carolina","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",2
+"Colorado","South Dakota","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","Tennessee","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",4
+"Colorado","Texas","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",26
+"Colorado","Utah","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",7
+"Colorado","Vermont","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","Virginia","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","Washington","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","West Virginia","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",0
+"Colorado","Wisconsin","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",3
+"Colorado","Wyoming","outflow_from_co","Agriculture, Forestry, Fishing and Hunting",9
+"Colorado","Alabama","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",4
+"Colorado","Alaska","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Colorado","Arizona","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",16
+"Colorado","Arkansas","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","California","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",12
+"Colorado","Connecticut","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","Delaware","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Colorado","District of Columbia","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","Florida","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",10
+"Colorado","Georgia","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",4
+"Colorado","Hawaii","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","Idaho","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",5
+"Colorado","Illinois","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",4
+"Colorado","Indiana","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",8
+"Colorado","Iowa","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","Kansas","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",8
+"Colorado","Kentucky","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","Louisiana","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",5
+"Colorado","Maine","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Colorado","Maryland","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","Massachusetts","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","Michigan","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Colorado","Minnesota","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","Mississippi","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Colorado","Missouri","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","Montana","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",13
+"Colorado","Nebraska","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Colorado","Nevada","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",13
+"Colorado","New Hampshire","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Colorado","New Jersey","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","New Mexico","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",33
+"Colorado","New York","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","North Carolina","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Colorado","North Dakota","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",36
+"Colorado","Ohio","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",5
+"Colorado","Oklahoma","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",15
+"Colorado","Oregon","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Colorado","Pennsylvania","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",6
+"Colorado","Rhode Island","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Colorado","South Carolina","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","South Dakota","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","Tennessee","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Colorado","Texas","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",117
+"Colorado","Utah","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",32
+"Colorado","Vermont","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Colorado","Virginia","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Colorado","Washington","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Colorado","West Virginia","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Colorado","Wisconsin","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Colorado","Wyoming","outflow_from_co","Mining, Quarrying, and Oil and Gas Extraction",51
+"Colorado","Alabama","outflow_from_co","Utilities",1
+"Colorado","Alaska","outflow_from_co","Utilities",NA
+"Colorado","Arizona","outflow_from_co","Utilities",1
+"Colorado","Arkansas","outflow_from_co","Utilities",1
+"Colorado","California","outflow_from_co","Utilities",3
+"Colorado","Connecticut","outflow_from_co","Utilities",0
+"Colorado","Delaware","outflow_from_co","Utilities",0
+"Colorado","District of Columbia","outflow_from_co","Utilities",0
+"Colorado","Florida","outflow_from_co","Utilities",4
+"Colorado","Georgia","outflow_from_co","Utilities",0
+"Colorado","Hawaii","outflow_from_co","Utilities",0
+"Colorado","Idaho","outflow_from_co","Utilities",1
+"Colorado","Illinois","outflow_from_co","Utilities",1
+"Colorado","Indiana","outflow_from_co","Utilities",1
+"Colorado","Iowa","outflow_from_co","Utilities",1
+"Colorado","Kansas","outflow_from_co","Utilities",1
+"Colorado","Kentucky","outflow_from_co","Utilities",0
+"Colorado","Louisiana","outflow_from_co","Utilities",1
+"Colorado","Maine","outflow_from_co","Utilities",0
+"Colorado","Maryland","outflow_from_co","Utilities",1
+"Colorado","Massachusetts","outflow_from_co","Utilities",1
+"Colorado","Michigan","outflow_from_co","Utilities",NA
+"Colorado","Minnesota","outflow_from_co","Utilities",1
+"Colorado","Mississippi","outflow_from_co","Utilities",NA
+"Colorado","Missouri","outflow_from_co","Utilities",2
+"Colorado","Montana","outflow_from_co","Utilities",2
+"Colorado","Nebraska","outflow_from_co","Utilities",4
+"Colorado","Nevada","outflow_from_co","Utilities",2
+"Colorado","New Hampshire","outflow_from_co","Utilities",0
+"Colorado","New Jersey","outflow_from_co","Utilities",0
+"Colorado","New Mexico","outflow_from_co","Utilities",3
+"Colorado","New York","outflow_from_co","Utilities",1
+"Colorado","North Carolina","outflow_from_co","Utilities",NA
+"Colorado","North Dakota","outflow_from_co","Utilities",0
+"Colorado","Ohio","outflow_from_co","Utilities",1
+"Colorado","Oklahoma","outflow_from_co","Utilities",1
+"Colorado","Oregon","outflow_from_co","Utilities",1
+"Colorado","Pennsylvania","outflow_from_co","Utilities",2
+"Colorado","Rhode Island","outflow_from_co","Utilities",0
+"Colorado","South Carolina","outflow_from_co","Utilities",0
+"Colorado","South Dakota","outflow_from_co","Utilities",1
+"Colorado","Tennessee","outflow_from_co","Utilities",2
+"Colorado","Texas","outflow_from_co","Utilities",11
+"Colorado","Utah","outflow_from_co","Utilities",4
+"Colorado","Vermont","outflow_from_co","Utilities",0
+"Colorado","Virginia","outflow_from_co","Utilities",2
+"Colorado","Washington","outflow_from_co","Utilities",2
+"Colorado","West Virginia","outflow_from_co","Utilities",1
+"Colorado","Wisconsin","outflow_from_co","Utilities",1
+"Colorado","Wyoming","outflow_from_co","Utilities",1
+"Colorado","Alabama","outflow_from_co","Construction",17
+"Colorado","Alaska","outflow_from_co","Construction",NA
+"Colorado","Arizona","outflow_from_co","Construction",131
+"Colorado","Arkansas","outflow_from_co","Construction",26
+"Colorado","California","outflow_from_co","Construction",165
+"Colorado","Connecticut","outflow_from_co","Construction",5
+"Colorado","Delaware","outflow_from_co","Construction",0
+"Colorado","District of Columbia","outflow_from_co","Construction",2
+"Colorado","Florida","outflow_from_co","Construction",107
+"Colorado","Georgia","outflow_from_co","Construction",36
+"Colorado","Hawaii","outflow_from_co","Construction",12
+"Colorado","Idaho","outflow_from_co","Construction",46
+"Colorado","Illinois","outflow_from_co","Construction",44
+"Colorado","Indiana","outflow_from_co","Construction",23
+"Colorado","Iowa","outflow_from_co","Construction",32
+"Colorado","Kansas","outflow_from_co","Construction",66
+"Colorado","Kentucky","outflow_from_co","Construction",14
+"Colorado","Louisiana","outflow_from_co","Construction",38
+"Colorado","Maine","outflow_from_co","Construction",7
+"Colorado","Maryland","outflow_from_co","Construction",7
+"Colorado","Massachusetts","outflow_from_co","Construction",13
+"Colorado","Michigan","outflow_from_co","Construction",NA
+"Colorado","Minnesota","outflow_from_co","Construction",42
+"Colorado","Mississippi","outflow_from_co","Construction",NA
+"Colorado","Missouri","outflow_from_co","Construction",50
+"Colorado","Montana","outflow_from_co","Construction",52
+"Colorado","Nebraska","outflow_from_co","Construction",64
+"Colorado","Nevada","outflow_from_co","Construction",49
+"Colorado","New Hampshire","outflow_from_co","Construction",2
+"Colorado","New Jersey","outflow_from_co","Construction",5
+"Colorado","New Mexico","outflow_from_co","Construction",96
+"Colorado","New York","outflow_from_co","Construction",33
+"Colorado","North Carolina","outflow_from_co","Construction",NA
+"Colorado","North Dakota","outflow_from_co","Construction",42
+"Colorado","Ohio","outflow_from_co","Construction",29
+"Colorado","Oklahoma","outflow_from_co","Construction",48
+"Colorado","Oregon","outflow_from_co","Construction",32
+"Colorado","Pennsylvania","outflow_from_co","Construction",20
+"Colorado","Rhode Island","outflow_from_co","Construction",1
+"Colorado","South Carolina","outflow_from_co","Construction",18
+"Colorado","South Dakota","outflow_from_co","Construction",22
+"Colorado","Tennessee","outflow_from_co","Construction",55
+"Colorado","Texas","outflow_from_co","Construction",395
+"Colorado","Utah","outflow_from_co","Construction",104
+"Colorado","Vermont","outflow_from_co","Construction",2
+"Colorado","Virginia","outflow_from_co","Construction",29
+"Colorado","Washington","outflow_from_co","Construction",44
+"Colorado","West Virginia","outflow_from_co","Construction",6
+"Colorado","Wisconsin","outflow_from_co","Construction",28
+"Colorado","Wyoming","outflow_from_co","Construction",156
+"Colorado","Alabama","outflow_from_co","Manufacturing",20
+"Colorado","Alaska","outflow_from_co","Manufacturing",NA
+"Colorado","Arizona","outflow_from_co","Manufacturing",45
+"Colorado","Arkansas","outflow_from_co","Manufacturing",14
+"Colorado","California","outflow_from_co","Manufacturing",120
+"Colorado","Connecticut","outflow_from_co","Manufacturing",6
+"Colorado","Delaware","outflow_from_co","Manufacturing",1
+"Colorado","District of Columbia","outflow_from_co","Manufacturing",1
+"Colorado","Florida","outflow_from_co","Manufacturing",65
+"Colorado","Georgia","outflow_from_co","Manufacturing",25
+"Colorado","Hawaii","outflow_from_co","Manufacturing",5
+"Colorado","Idaho","outflow_from_co","Manufacturing",15
+"Colorado","Illinois","outflow_from_co","Manufacturing",29
+"Colorado","Indiana","outflow_from_co","Manufacturing",16
+"Colorado","Iowa","outflow_from_co","Manufacturing",19
+"Colorado","Kansas","outflow_from_co","Manufacturing",26
+"Colorado","Kentucky","outflow_from_co","Manufacturing",11
+"Colorado","Louisiana","outflow_from_co","Manufacturing",8
+"Colorado","Maine","outflow_from_co","Manufacturing",4
+"Colorado","Maryland","outflow_from_co","Manufacturing",10
+"Colorado","Massachusetts","outflow_from_co","Manufacturing",13
+"Colorado","Michigan","outflow_from_co","Manufacturing",NA
+"Colorado","Minnesota","outflow_from_co","Manufacturing",19
+"Colorado","Mississippi","outflow_from_co","Manufacturing",NA
+"Colorado","Missouri","outflow_from_co","Manufacturing",25
+"Colorado","Montana","outflow_from_co","Manufacturing",12
+"Colorado","Nebraska","outflow_from_co","Manufacturing",15
+"Colorado","Nevada","outflow_from_co","Manufacturing",20
+"Colorado","New Hampshire","outflow_from_co","Manufacturing",2
+"Colorado","New Jersey","outflow_from_co","Manufacturing",8
+"Colorado","New Mexico","outflow_from_co","Manufacturing",32
+"Colorado","New York","outflow_from_co","Manufacturing",23
+"Colorado","North Carolina","outflow_from_co","Manufacturing",NA
+"Colorado","North Dakota","outflow_from_co","Manufacturing",6
+"Colorado","Ohio","outflow_from_co","Manufacturing",24
+"Colorado","Oklahoma","outflow_from_co","Manufacturing",20
+"Colorado","Oregon","outflow_from_co","Manufacturing",19
+"Colorado","Pennsylvania","outflow_from_co","Manufacturing",25
+"Colorado","Rhode Island","outflow_from_co","Manufacturing",3
+"Colorado","South Carolina","outflow_from_co","Manufacturing",12
+"Colorado","South Dakota","outflow_from_co","Manufacturing",8
+"Colorado","Tennessee","outflow_from_co","Manufacturing",27
+"Colorado","Texas","outflow_from_co","Manufacturing",149
+"Colorado","Utah","outflow_from_co","Manufacturing",32
+"Colorado","Vermont","outflow_from_co","Manufacturing",3
+"Colorado","Virginia","outflow_from_co","Manufacturing",19
+"Colorado","Washington","outflow_from_co","Manufacturing",39
+"Colorado","West Virginia","outflow_from_co","Manufacturing",4
+"Colorado","Wisconsin","outflow_from_co","Manufacturing",26
+"Colorado","Wyoming","outflow_from_co","Manufacturing",35
+"Colorado","Alabama","outflow_from_co","Wholesale Trade",8
+"Colorado","Alaska","outflow_from_co","Wholesale Trade",NA
+"Colorado","Arizona","outflow_from_co","Wholesale Trade",56
+"Colorado","Arkansas","outflow_from_co","Wholesale Trade",10
+"Colorado","California","outflow_from_co","Wholesale Trade",83
+"Colorado","Connecticut","outflow_from_co","Wholesale Trade",4
+"Colorado","Delaware","outflow_from_co","Wholesale Trade",1
+"Colorado","District of Columbia","outflow_from_co","Wholesale Trade",2
+"Colorado","Florida","outflow_from_co","Wholesale Trade",75
+"Colorado","Georgia","outflow_from_co","Wholesale Trade",20
+"Colorado","Hawaii","outflow_from_co","Wholesale Trade",4
+"Colorado","Idaho","outflow_from_co","Wholesale Trade",14
+"Colorado","Illinois","outflow_from_co","Wholesale Trade",34
+"Colorado","Indiana","outflow_from_co","Wholesale Trade",15
+"Colorado","Iowa","outflow_from_co","Wholesale Trade",13
+"Colorado","Kansas","outflow_from_co","Wholesale Trade",23
+"Colorado","Kentucky","outflow_from_co","Wholesale Trade",8
+"Colorado","Louisiana","outflow_from_co","Wholesale Trade",9
+"Colorado","Maine","outflow_from_co","Wholesale Trade",5
+"Colorado","Maryland","outflow_from_co","Wholesale Trade",11
+"Colorado","Massachusetts","outflow_from_co","Wholesale Trade",17
+"Colorado","Michigan","outflow_from_co","Wholesale Trade",NA
+"Colorado","Minnesota","outflow_from_co","Wholesale Trade",17
+"Colorado","Mississippi","outflow_from_co","Wholesale Trade",NA
+"Colorado","Missouri","outflow_from_co","Wholesale Trade",28
+"Colorado","Montana","outflow_from_co","Wholesale Trade",11
+"Colorado","Nebraska","outflow_from_co","Wholesale Trade",24
+"Colorado","Nevada","outflow_from_co","Wholesale Trade",18
+"Colorado","New Hampshire","outflow_from_co","Wholesale Trade",4
+"Colorado","New Jersey","outflow_from_co","Wholesale Trade",11
+"Colorado","New Mexico","outflow_from_co","Wholesale Trade",27
+"Colorado","New York","outflow_from_co","Wholesale Trade",23
+"Colorado","North Carolina","outflow_from_co","Wholesale Trade",NA
+"Colorado","North Dakota","outflow_from_co","Wholesale Trade",5
+"Colorado","Ohio","outflow_from_co","Wholesale Trade",21
+"Colorado","Oklahoma","outflow_from_co","Wholesale Trade",20
+"Colorado","Oregon","outflow_from_co","Wholesale Trade",12
+"Colorado","Pennsylvania","outflow_from_co","Wholesale Trade",17
+"Colorado","Rhode Island","outflow_from_co","Wholesale Trade",2
+"Colorado","South Carolina","outflow_from_co","Wholesale Trade",19
+"Colorado","South Dakota","outflow_from_co","Wholesale Trade",7
+"Colorado","Tennessee","outflow_from_co","Wholesale Trade",25
+"Colorado","Texas","outflow_from_co","Wholesale Trade",132
+"Colorado","Utah","outflow_from_co","Wholesale Trade",36
+"Colorado","Vermont","outflow_from_co","Wholesale Trade",2
+"Colorado","Virginia","outflow_from_co","Wholesale Trade",14
+"Colorado","Washington","outflow_from_co","Wholesale Trade",35
+"Colorado","West Virginia","outflow_from_co","Wholesale Trade",2
+"Colorado","Wisconsin","outflow_from_co","Wholesale Trade",20
+"Colorado","Wyoming","outflow_from_co","Wholesale Trade",34
+"Colorado","Alabama","outflow_from_co","Retail Trade",31
+"Colorado","Alaska","outflow_from_co","Retail Trade",NA
+"Colorado","Arizona","outflow_from_co","Retail Trade",143
+"Colorado","Arkansas","outflow_from_co","Retail Trade",31
+"Colorado","California","outflow_from_co","Retail Trade",236
+"Colorado","Connecticut","outflow_from_co","Retail Trade",11
+"Colorado","Delaware","outflow_from_co","Retail Trade",4
+"Colorado","District of Columbia","outflow_from_co","Retail Trade",6
+"Colorado","Florida","outflow_from_co","Retail Trade",189
+"Colorado","Georgia","outflow_from_co","Retail Trade",54
+"Colorado","Hawaii","outflow_from_co","Retail Trade",17
+"Colorado","Idaho","outflow_from_co","Retail Trade",37
+"Colorado","Illinois","outflow_from_co","Retail Trade",74
+"Colorado","Indiana","outflow_from_co","Retail Trade",36
+"Colorado","Iowa","outflow_from_co","Retail Trade",38
+"Colorado","Kansas","outflow_from_co","Retail Trade",70
+"Colorado","Kentucky","outflow_from_co","Retail Trade",23
+"Colorado","Louisiana","outflow_from_co","Retail Trade",26
+"Colorado","Maine","outflow_from_co","Retail Trade",11
+"Colorado","Maryland","outflow_from_co","Retail Trade",16
+"Colorado","Massachusetts","outflow_from_co","Retail Trade",25
+"Colorado","Michigan","outflow_from_co","Retail Trade",NA
+"Colorado","Minnesota","outflow_from_co","Retail Trade",45
+"Colorado","Mississippi","outflow_from_co","Retail Trade",NA
+"Colorado","Missouri","outflow_from_co","Retail Trade",67
+"Colorado","Montana","outflow_from_co","Retail Trade",44
+"Colorado","Nebraska","outflow_from_co","Retail Trade",61
+"Colorado","Nevada","outflow_from_co","Retail Trade",56
+"Colorado","New Hampshire","outflow_from_co","Retail Trade",11
+"Colorado","New Jersey","outflow_from_co","Retail Trade",20
+"Colorado","New Mexico","outflow_from_co","Retail Trade",102
+"Colorado","New York","outflow_from_co","Retail Trade",54
+"Colorado","North Carolina","outflow_from_co","Retail Trade",NA
+"Colorado","North Dakota","outflow_from_co","Retail Trade",19
+"Colorado","Ohio","outflow_from_co","Retail Trade",50
+"Colorado","Oklahoma","outflow_from_co","Retail Trade",58
+"Colorado","Oregon","outflow_from_co","Retail Trade",62
+"Colorado","Pennsylvania","outflow_from_co","Retail Trade",36
+"Colorado","Rhode Island","outflow_from_co","Retail Trade",3
+"Colorado","South Carolina","outflow_from_co","Retail Trade",32
+"Colorado","South Dakota","outflow_from_co","Retail Trade",19
+"Colorado","Tennessee","outflow_from_co","Retail Trade",61
+"Colorado","Texas","outflow_from_co","Retail Trade",315
+"Colorado","Utah","outflow_from_co","Retail Trade",91
+"Colorado","Vermont","outflow_from_co","Retail Trade",6
+"Colorado","Virginia","outflow_from_co","Retail Trade",46
+"Colorado","Washington","outflow_from_co","Retail Trade",94
+"Colorado","West Virginia","outflow_from_co","Retail Trade",5
+"Colorado","Wisconsin","outflow_from_co","Retail Trade",41
+"Colorado","Wyoming","outflow_from_co","Retail Trade",88
+"Colorado","Alabama","outflow_from_co","Transportation and Warehousing",17
+"Colorado","Alaska","outflow_from_co","Transportation and Warehousing",NA
+"Colorado","Arizona","outflow_from_co","Transportation and Warehousing",114
+"Colorado","Arkansas","outflow_from_co","Transportation and Warehousing",12
+"Colorado","California","outflow_from_co","Transportation and Warehousing",200
+"Colorado","Connecticut","outflow_from_co","Transportation and Warehousing",3
+"Colorado","Delaware","outflow_from_co","Transportation and Warehousing",2
+"Colorado","District of Columbia","outflow_from_co","Transportation and Warehousing",2
+"Colorado","Florida","outflow_from_co","Transportation and Warehousing",140
+"Colorado","Georgia","outflow_from_co","Transportation and Warehousing",72
+"Colorado","Hawaii","outflow_from_co","Transportation and Warehousing",14
+"Colorado","Idaho","outflow_from_co","Transportation and Warehousing",30
+"Colorado","Illinois","outflow_from_co","Transportation and Warehousing",129
+"Colorado","Indiana","outflow_from_co","Transportation and Warehousing",17
+"Colorado","Iowa","outflow_from_co","Transportation and Warehousing",27
+"Colorado","Kansas","outflow_from_co","Transportation and Warehousing",33
+"Colorado","Kentucky","outflow_from_co","Transportation and Warehousing",14
+"Colorado","Louisiana","outflow_from_co","Transportation and Warehousing",12
+"Colorado","Maine","outflow_from_co","Transportation and Warehousing",4
+"Colorado","Maryland","outflow_from_co","Transportation and Warehousing",27
+"Colorado","Massachusetts","outflow_from_co","Transportation and Warehousing",14
+"Colorado","Michigan","outflow_from_co","Transportation and Warehousing",NA
+"Colorado","Minnesota","outflow_from_co","Transportation and Warehousing",40
+"Colorado","Mississippi","outflow_from_co","Transportation and Warehousing",NA
+"Colorado","Missouri","outflow_from_co","Transportation and Warehousing",51
+"Colorado","Montana","outflow_from_co","Transportation and Warehousing",13
+"Colorado","Nebraska","outflow_from_co","Transportation and Warehousing",32
+"Colorado","Nevada","outflow_from_co","Transportation and Warehousing",68
+"Colorado","New Hampshire","outflow_from_co","Transportation and Warehousing",4
+"Colorado","New Jersey","outflow_from_co","Transportation and Warehousing",38
+"Colorado","New Mexico","outflow_from_co","Transportation and Warehousing",38
+"Colorado","New York","outflow_from_co","Transportation and Warehousing",19
+"Colorado","North Carolina","outflow_from_co","Transportation and Warehousing",NA
+"Colorado","North Dakota","outflow_from_co","Transportation and Warehousing",15
+"Colorado","Ohio","outflow_from_co","Transportation and Warehousing",35
+"Colorado","Oklahoma","outflow_from_co","Transportation and Warehousing",27
+"Colorado","Oregon","outflow_from_co","Transportation and Warehousing",34
+"Colorado","Pennsylvania","outflow_from_co","Transportation and Warehousing",22
+"Colorado","Rhode Island","outflow_from_co","Transportation and Warehousing",0
+"Colorado","South Carolina","outflow_from_co","Transportation and Warehousing",13
+"Colorado","South Dakota","outflow_from_co","Transportation and Warehousing",7
+"Colorado","Tennessee","outflow_from_co","Transportation and Warehousing",32
+"Colorado","Texas","outflow_from_co","Transportation and Warehousing",363
+"Colorado","Utah","outflow_from_co","Transportation and Warehousing",92
+"Colorado","Vermont","outflow_from_co","Transportation and Warehousing",2
+"Colorado","Virginia","outflow_from_co","Transportation and Warehousing",47
+"Colorado","Washington","outflow_from_co","Transportation and Warehousing",70
+"Colorado","West Virginia","outflow_from_co","Transportation and Warehousing",2
+"Colorado","Wisconsin","outflow_from_co","Transportation and Warehousing",16
+"Colorado","Wyoming","outflow_from_co","Transportation and Warehousing",43
+"Colorado","Alabama","outflow_from_co","Information",9
+"Colorado","Alaska","outflow_from_co","Information",NA
+"Colorado","Arizona","outflow_from_co","Information",39
+"Colorado","Arkansas","outflow_from_co","Information",6
+"Colorado","California","outflow_from_co","Information",94
+"Colorado","Connecticut","outflow_from_co","Information",8
+"Colorado","Delaware","outflow_from_co","Information",0
+"Colorado","District of Columbia","outflow_from_co","Information",4
+"Colorado","Florida","outflow_from_co","Information",74
+"Colorado","Georgia","outflow_from_co","Information",22
+"Colorado","Hawaii","outflow_from_co","Information",3
+"Colorado","Idaho","outflow_from_co","Information",7
+"Colorado","Illinois","outflow_from_co","Information",35
+"Colorado","Indiana","outflow_from_co","Information",9
+"Colorado","Iowa","outflow_from_co","Information",6
+"Colorado","Kansas","outflow_from_co","Information",10
+"Colorado","Kentucky","outflow_from_co","Information",4
+"Colorado","Louisiana","outflow_from_co","Information",5
+"Colorado","Maine","outflow_from_co","Information",3
+"Colorado","Maryland","outflow_from_co","Information",19
+"Colorado","Massachusetts","outflow_from_co","Information",15
+"Colorado","Michigan","outflow_from_co","Information",NA
+"Colorado","Minnesota","outflow_from_co","Information",10
+"Colorado","Mississippi","outflow_from_co","Information",NA
+"Colorado","Missouri","outflow_from_co","Information",16
+"Colorado","Montana","outflow_from_co","Information",6
+"Colorado","Nebraska","outflow_from_co","Information",10
+"Colorado","Nevada","outflow_from_co","Information",11
+"Colorado","New Hampshire","outflow_from_co","Information",3
+"Colorado","New Jersey","outflow_from_co","Information",10
+"Colorado","New Mexico","outflow_from_co","Information",18
+"Colorado","New York","outflow_from_co","Information",41
+"Colorado","North Carolina","outflow_from_co","Information",NA
+"Colorado","North Dakota","outflow_from_co","Information",1
+"Colorado","Ohio","outflow_from_co","Information",15
+"Colorado","Oklahoma","outflow_from_co","Information",13
+"Colorado","Oregon","outflow_from_co","Information",21
+"Colorado","Pennsylvania","outflow_from_co","Information",19
+"Colorado","Rhode Island","outflow_from_co","Information",1
+"Colorado","South Carolina","outflow_from_co","Information",22
+"Colorado","South Dakota","outflow_from_co","Information",5
+"Colorado","Tennessee","outflow_from_co","Information",18
+"Colorado","Texas","outflow_from_co","Information",119
+"Colorado","Utah","outflow_from_co","Information",14
+"Colorado","Vermont","outflow_from_co","Information",2
+"Colorado","Virginia","outflow_from_co","Information",47
+"Colorado","Washington","outflow_from_co","Information",35
+"Colorado","West Virginia","outflow_from_co","Information",1
+"Colorado","Wisconsin","outflow_from_co","Information",12
+"Colorado","Wyoming","outflow_from_co","Information",9
+"Colorado","Alabama","outflow_from_co","Finance and Insurance",11
+"Colorado","Alaska","outflow_from_co","Finance and Insurance",NA
+"Colorado","Arizona","outflow_from_co","Finance and Insurance",55
+"Colorado","Arkansas","outflow_from_co","Finance and Insurance",8
+"Colorado","California","outflow_from_co","Finance and Insurance",82
+"Colorado","Connecticut","outflow_from_co","Finance and Insurance",8
+"Colorado","Delaware","outflow_from_co","Finance and Insurance",2
+"Colorado","District of Columbia","outflow_from_co","Finance and Insurance",3
+"Colorado","Florida","outflow_from_co","Finance and Insurance",84
+"Colorado","Georgia","outflow_from_co","Finance and Insurance",27
+"Colorado","Hawaii","outflow_from_co","Finance and Insurance",4
+"Colorado","Idaho","outflow_from_co","Finance and Insurance",9
+"Colorado","Illinois","outflow_from_co","Finance and Insurance",38
+"Colorado","Indiana","outflow_from_co","Finance and Insurance",11
+"Colorado","Iowa","outflow_from_co","Finance and Insurance",13
+"Colorado","Kansas","outflow_from_co","Finance and Insurance",25
+"Colorado","Kentucky","outflow_from_co","Finance and Insurance",9
+"Colorado","Louisiana","outflow_from_co","Finance and Insurance",5
+"Colorado","Maine","outflow_from_co","Finance and Insurance",3
+"Colorado","Maryland","outflow_from_co","Finance and Insurance",13
+"Colorado","Massachusetts","outflow_from_co","Finance and Insurance",11
+"Colorado","Michigan","outflow_from_co","Finance and Insurance",NA
+"Colorado","Minnesota","outflow_from_co","Finance and Insurance",16
+"Colorado","Mississippi","outflow_from_co","Finance and Insurance",NA
+"Colorado","Missouri","outflow_from_co","Finance and Insurance",24
+"Colorado","Montana","outflow_from_co","Finance and Insurance",8
+"Colorado","Nebraska","outflow_from_co","Finance and Insurance",16
+"Colorado","Nevada","outflow_from_co","Finance and Insurance",12
+"Colorado","New Hampshire","outflow_from_co","Finance and Insurance",6
+"Colorado","New Jersey","outflow_from_co","Finance and Insurance",10
+"Colorado","New Mexico","outflow_from_co","Finance and Insurance",19
+"Colorado","New York","outflow_from_co","Finance and Insurance",41
+"Colorado","North Carolina","outflow_from_co","Finance and Insurance",NA
+"Colorado","North Dakota","outflow_from_co","Finance and Insurance",3
+"Colorado","Ohio","outflow_from_co","Finance and Insurance",22
+"Colorado","Oklahoma","outflow_from_co","Finance and Insurance",14
+"Colorado","Oregon","outflow_from_co","Finance and Insurance",13
+"Colorado","Pennsylvania","outflow_from_co","Finance and Insurance",14
+"Colorado","Rhode Island","outflow_from_co","Finance and Insurance",1
+"Colorado","South Carolina","outflow_from_co","Finance and Insurance",15
+"Colorado","South Dakota","outflow_from_co","Finance and Insurance",9
+"Colorado","Tennessee","outflow_from_co","Finance and Insurance",24
+"Colorado","Texas","outflow_from_co","Finance and Insurance",135
+"Colorado","Utah","outflow_from_co","Finance and Insurance",25
+"Colorado","Vermont","outflow_from_co","Finance and Insurance",1
+"Colorado","Virginia","outflow_from_co","Finance and Insurance",18
+"Colorado","Washington","outflow_from_co","Finance and Insurance",33
+"Colorado","West Virginia","outflow_from_co","Finance and Insurance",1
+"Colorado","Wisconsin","outflow_from_co","Finance and Insurance",20
+"Colorado","Wyoming","outflow_from_co","Finance and Insurance",17
+"Colorado","Alabama","outflow_from_co","Real Estate and Rental and Leasing",5
+"Colorado","Alaska","outflow_from_co","Real Estate and Rental and Leasing",NA
+"Colorado","Arizona","outflow_from_co","Real Estate and Rental and Leasing",30
+"Colorado","Arkansas","outflow_from_co","Real Estate and Rental and Leasing",5
+"Colorado","California","outflow_from_co","Real Estate and Rental and Leasing",39
+"Colorado","Connecticut","outflow_from_co","Real Estate and Rental and Leasing",2
+"Colorado","Delaware","outflow_from_co","Real Estate and Rental and Leasing",2
+"Colorado","District of Columbia","outflow_from_co","Real Estate and Rental and Leasing",1
+"Colorado","Florida","outflow_from_co","Real Estate and Rental and Leasing",47
+"Colorado","Georgia","outflow_from_co","Real Estate and Rental and Leasing",9
+"Colorado","Hawaii","outflow_from_co","Real Estate and Rental and Leasing",4
+"Colorado","Idaho","outflow_from_co","Real Estate and Rental and Leasing",5
+"Colorado","Illinois","outflow_from_co","Real Estate and Rental and Leasing",16
+"Colorado","Indiana","outflow_from_co","Real Estate and Rental and Leasing",6
+"Colorado","Iowa","outflow_from_co","Real Estate and Rental and Leasing",5
+"Colorado","Kansas","outflow_from_co","Real Estate and Rental and Leasing",13
+"Colorado","Kentucky","outflow_from_co","Real Estate and Rental and Leasing",4
+"Colorado","Louisiana","outflow_from_co","Real Estate and Rental and Leasing",6
+"Colorado","Maine","outflow_from_co","Real Estate and Rental and Leasing",4
+"Colorado","Maryland","outflow_from_co","Real Estate and Rental and Leasing",2
+"Colorado","Massachusetts","outflow_from_co","Real Estate and Rental and Leasing",8
+"Colorado","Michigan","outflow_from_co","Real Estate and Rental and Leasing",NA
+"Colorado","Minnesota","outflow_from_co","Real Estate and Rental and Leasing",6
+"Colorado","Mississippi","outflow_from_co","Real Estate and Rental and Leasing",NA
+"Colorado","Missouri","outflow_from_co","Real Estate and Rental and Leasing",13
+"Colorado","Montana","outflow_from_co","Real Estate and Rental and Leasing",6
+"Colorado","Nebraska","outflow_from_co","Real Estate and Rental and Leasing",6
+"Colorado","Nevada","outflow_from_co","Real Estate and Rental and Leasing",8
+"Colorado","New Hampshire","outflow_from_co","Real Estate and Rental and Leasing",2
+"Colorado","New Jersey","outflow_from_co","Real Estate and Rental and Leasing",4
+"Colorado","New Mexico","outflow_from_co","Real Estate and Rental and Leasing",14
+"Colorado","New York","outflow_from_co","Real Estate and Rental and Leasing",12
+"Colorado","North Carolina","outflow_from_co","Real Estate and Rental and Leasing",NA
+"Colorado","North Dakota","outflow_from_co","Real Estate and Rental and Leasing",3
+"Colorado","Ohio","outflow_from_co","Real Estate and Rental and Leasing",7
+"Colorado","Oklahoma","outflow_from_co","Real Estate and Rental and Leasing",11
+"Colorado","Oregon","outflow_from_co","Real Estate and Rental and Leasing",12
+"Colorado","Pennsylvania","outflow_from_co","Real Estate and Rental and Leasing",9
+"Colorado","Rhode Island","outflow_from_co","Real Estate and Rental and Leasing",2
+"Colorado","South Carolina","outflow_from_co","Real Estate and Rental and Leasing",11
+"Colorado","South Dakota","outflow_from_co","Real Estate and Rental and Leasing",4
+"Colorado","Tennessee","outflow_from_co","Real Estate and Rental and Leasing",11
+"Colorado","Texas","outflow_from_co","Real Estate and Rental and Leasing",74
+"Colorado","Utah","outflow_from_co","Real Estate and Rental and Leasing",15
+"Colorado","Vermont","outflow_from_co","Real Estate and Rental and Leasing",2
+"Colorado","Virginia","outflow_from_co","Real Estate and Rental and Leasing",8
+"Colorado","Washington","outflow_from_co","Real Estate and Rental and Leasing",18
+"Colorado","West Virginia","outflow_from_co","Real Estate and Rental and Leasing",0
+"Colorado","Wisconsin","outflow_from_co","Real Estate and Rental and Leasing",10
+"Colorado","Wyoming","outflow_from_co","Real Estate and Rental and Leasing",13
+"Colorado","Alabama","outflow_from_co","Professional, Scientific, and Technical Services",37
+"Colorado","Alaska","outflow_from_co","Professional, Scientific, and Technical Services",NA
+"Colorado","Arizona","outflow_from_co","Professional, Scientific, and Technical Services",124
+"Colorado","Arkansas","outflow_from_co","Professional, Scientific, and Technical Services",27
+"Colorado","California","outflow_from_co","Professional, Scientific, and Technical Services",350
+"Colorado","Connecticut","outflow_from_co","Professional, Scientific, and Technical Services",19
+"Colorado","Delaware","outflow_from_co","Professional, Scientific, and Technical Services",3
+"Colorado","District of Columbia","outflow_from_co","Professional, Scientific, and Technical Services",25
+"Colorado","Florida","outflow_from_co","Professional, Scientific, and Technical Services",270
+"Colorado","Georgia","outflow_from_co","Professional, Scientific, and Technical Services",80
+"Colorado","Hawaii","outflow_from_co","Professional, Scientific, and Technical Services",17
+"Colorado","Idaho","outflow_from_co","Professional, Scientific, and Technical Services",26
+"Colorado","Illinois","outflow_from_co","Professional, Scientific, and Technical Services",122
+"Colorado","Indiana","outflow_from_co","Professional, Scientific, and Technical Services",42
+"Colorado","Iowa","outflow_from_co","Professional, Scientific, and Technical Services",27
+"Colorado","Kansas","outflow_from_co","Professional, Scientific, and Technical Services",50
+"Colorado","Kentucky","outflow_from_co","Professional, Scientific, and Technical Services",19
+"Colorado","Louisiana","outflow_from_co","Professional, Scientific, and Technical Services",21
+"Colorado","Maine","outflow_from_co","Professional, Scientific, and Technical Services",12
+"Colorado","Maryland","outflow_from_co","Professional, Scientific, and Technical Services",41
+"Colorado","Massachusetts","outflow_from_co","Professional, Scientific, and Technical Services",66
+"Colorado","Michigan","outflow_from_co","Professional, Scientific, and Technical Services",NA
+"Colorado","Minnesota","outflow_from_co","Professional, Scientific, and Technical Services",61
+"Colorado","Mississippi","outflow_from_co","Professional, Scientific, and Technical Services",NA
+"Colorado","Missouri","outflow_from_co","Professional, Scientific, and Technical Services",67
+"Colorado","Montana","outflow_from_co","Professional, Scientific, and Technical Services",39
+"Colorado","Nebraska","outflow_from_co","Professional, Scientific, and Technical Services",34
+"Colorado","Nevada","outflow_from_co","Professional, Scientific, and Technical Services",50
+"Colorado","New Hampshire","outflow_from_co","Professional, Scientific, and Technical Services",15
+"Colorado","New Jersey","outflow_from_co","Professional, Scientific, and Technical Services",37
+"Colorado","New Mexico","outflow_from_co","Professional, Scientific, and Technical Services",54
+"Colorado","New York","outflow_from_co","Professional, Scientific, and Technical Services",140
+"Colorado","North Carolina","outflow_from_co","Professional, Scientific, and Technical Services",NA
+"Colorado","North Dakota","outflow_from_co","Professional, Scientific, and Technical Services",11
+"Colorado","Ohio","outflow_from_co","Professional, Scientific, and Technical Services",63
+"Colorado","Oklahoma","outflow_from_co","Professional, Scientific, and Technical Services",37
+"Colorado","Oregon","outflow_from_co","Professional, Scientific, and Technical Services",67
+"Colorado","Pennsylvania","outflow_from_co","Professional, Scientific, and Technical Services",73
+"Colorado","Rhode Island","outflow_from_co","Professional, Scientific, and Technical Services",5
+"Colorado","South Carolina","outflow_from_co","Professional, Scientific, and Technical Services",42
+"Colorado","South Dakota","outflow_from_co","Professional, Scientific, and Technical Services",15
+"Colorado","Tennessee","outflow_from_co","Professional, Scientific, and Technical Services",61
+"Colorado","Texas","outflow_from_co","Professional, Scientific, and Technical Services",422
+"Colorado","Utah","outflow_from_co","Professional, Scientific, and Technical Services",64
+"Colorado","Vermont","outflow_from_co","Professional, Scientific, and Technical Services",9
+"Colorado","Virginia","outflow_from_co","Professional, Scientific, and Technical Services",106
+"Colorado","Washington","outflow_from_co","Professional, Scientific, and Technical Services",136
+"Colorado","West Virginia","outflow_from_co","Professional, Scientific, and Technical Services",3
+"Colorado","Wisconsin","outflow_from_co","Professional, Scientific, and Technical Services",51
+"Colorado","Wyoming","outflow_from_co","Professional, Scientific, and Technical Services",50
+"Colorado","Alabama","outflow_from_co","Management of Companies and Enterprises",5
+"Colorado","Alaska","outflow_from_co","Management of Companies and Enterprises",NA
+"Colorado","Arizona","outflow_from_co","Management of Companies and Enterprises",25
+"Colorado","Arkansas","outflow_from_co","Management of Companies and Enterprises",6
+"Colorado","California","outflow_from_co","Management of Companies and Enterprises",47
+"Colorado","Connecticut","outflow_from_co","Management of Companies and Enterprises",3
+"Colorado","Delaware","outflow_from_co","Management of Companies and Enterprises",1
+"Colorado","District of Columbia","outflow_from_co","Management of Companies and Enterprises",4
+"Colorado","Florida","outflow_from_co","Management of Companies and Enterprises",45
+"Colorado","Georgia","outflow_from_co","Management of Companies and Enterprises",18
+"Colorado","Hawaii","outflow_from_co","Management of Companies and Enterprises",2
+"Colorado","Idaho","outflow_from_co","Management of Companies and Enterprises",4
+"Colorado","Illinois","outflow_from_co","Management of Companies and Enterprises",12
+"Colorado","Indiana","outflow_from_co","Management of Companies and Enterprises",7
+"Colorado","Iowa","outflow_from_co","Management of Companies and Enterprises",4
+"Colorado","Kansas","outflow_from_co","Management of Companies and Enterprises",12
+"Colorado","Kentucky","outflow_from_co","Management of Companies and Enterprises",3
+"Colorado","Louisiana","outflow_from_co","Management of Companies and Enterprises",3
+"Colorado","Maine","outflow_from_co","Management of Companies and Enterprises",5
+"Colorado","Maryland","outflow_from_co","Management of Companies and Enterprises",6
+"Colorado","Massachusetts","outflow_from_co","Management of Companies and Enterprises",10
+"Colorado","Michigan","outflow_from_co","Management of Companies and Enterprises",NA
+"Colorado","Minnesota","outflow_from_co","Management of Companies and Enterprises",12
+"Colorado","Mississippi","outflow_from_co","Management of Companies and Enterprises",NA
+"Colorado","Missouri","outflow_from_co","Management of Companies and Enterprises",12
+"Colorado","Montana","outflow_from_co","Management of Companies and Enterprises",8
+"Colorado","Nebraska","outflow_from_co","Management of Companies and Enterprises",11
+"Colorado","Nevada","outflow_from_co","Management of Companies and Enterprises",10
+"Colorado","New Hampshire","outflow_from_co","Management of Companies and Enterprises",5
+"Colorado","New Jersey","outflow_from_co","Management of Companies and Enterprises",4
+"Colorado","New Mexico","outflow_from_co","Management of Companies and Enterprises",8
+"Colorado","New York","outflow_from_co","Management of Companies and Enterprises",14
+"Colorado","North Carolina","outflow_from_co","Management of Companies and Enterprises",NA
+"Colorado","North Dakota","outflow_from_co","Management of Companies and Enterprises",3
+"Colorado","Ohio","outflow_from_co","Management of Companies and Enterprises",9
+"Colorado","Oklahoma","outflow_from_co","Management of Companies and Enterprises",8
+"Colorado","Oregon","outflow_from_co","Management of Companies and Enterprises",8
+"Colorado","Pennsylvania","outflow_from_co","Management of Companies and Enterprises",11
+"Colorado","Rhode Island","outflow_from_co","Management of Companies and Enterprises",4
+"Colorado","South Carolina","outflow_from_co","Management of Companies and Enterprises",6
+"Colorado","South Dakota","outflow_from_co","Management of Companies and Enterprises",5
+"Colorado","Tennessee","outflow_from_co","Management of Companies and Enterprises",12
+"Colorado","Texas","outflow_from_co","Management of Companies and Enterprises",64
+"Colorado","Utah","outflow_from_co","Management of Companies and Enterprises",12
+"Colorado","Vermont","outflow_from_co","Management of Companies and Enterprises",2
+"Colorado","Virginia","outflow_from_co","Management of Companies and Enterprises",7
+"Colorado","Washington","outflow_from_co","Management of Companies and Enterprises",20
+"Colorado","West Virginia","outflow_from_co","Management of Companies and Enterprises",2
+"Colorado","Wisconsin","outflow_from_co","Management of Companies and Enterprises",10
+"Colorado","Wyoming","outflow_from_co","Management of Companies and Enterprises",17
+"Colorado","Alabama","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",32
+"Colorado","Alaska","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Colorado","Arizona","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",148
+"Colorado","Arkansas","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",30
+"Colorado","California","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",239
+"Colorado","Connecticut","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",16
+"Colorado","Delaware","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",4
+"Colorado","District of Columbia","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",9
+"Colorado","Florida","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",179
+"Colorado","Georgia","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",72
+"Colorado","Hawaii","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",18
+"Colorado","Idaho","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",33
+"Colorado","Illinois","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",74
+"Colorado","Indiana","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",40
+"Colorado","Iowa","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",38
+"Colorado","Kansas","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",62
+"Colorado","Kentucky","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",23
+"Colorado","Louisiana","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",37
+"Colorado","Maine","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",19
+"Colorado","Maryland","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",28
+"Colorado","Massachusetts","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",49
+"Colorado","Michigan","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Colorado","Minnesota","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",42
+"Colorado","Mississippi","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Colorado","Missouri","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",75
+"Colorado","Montana","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",37
+"Colorado","Nebraska","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",51
+"Colorado","Nevada","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",42
+"Colorado","New Hampshire","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",16
+"Colorado","New Jersey","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",23
+"Colorado","New Mexico","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",82
+"Colorado","New York","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",65
+"Colorado","North Carolina","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Colorado","North Dakota","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",18
+"Colorado","Ohio","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",61
+"Colorado","Oklahoma","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",48
+"Colorado","Oregon","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",67
+"Colorado","Pennsylvania","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",40
+"Colorado","Rhode Island","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",3
+"Colorado","South Carolina","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",37
+"Colorado","South Dakota","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",27
+"Colorado","Tennessee","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",63
+"Colorado","Texas","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",353
+"Colorado","Utah","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",75
+"Colorado","Vermont","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",12
+"Colorado","Virginia","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",67
+"Colorado","Washington","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",117
+"Colorado","West Virginia","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",13
+"Colorado","Wisconsin","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",53
+"Colorado","Wyoming","outflow_from_co","Administrative and Support and Waste Management and Remediation Services",69
+"Colorado","Alabama","outflow_from_co","Educational Services",12
+"Colorado","Alaska","outflow_from_co","Educational Services",NA
+"Colorado","Arizona","outflow_from_co","Educational Services",56
+"Colorado","Arkansas","outflow_from_co","Educational Services",7
+"Colorado","California","outflow_from_co","Educational Services",112
+"Colorado","Connecticut","outflow_from_co","Educational Services",12
+"Colorado","Delaware","outflow_from_co","Educational Services",2
+"Colorado","District of Columbia","outflow_from_co","Educational Services",8
+"Colorado","Florida","outflow_from_co","Educational Services",68
+"Colorado","Georgia","outflow_from_co","Educational Services",23
+"Colorado","Hawaii","outflow_from_co","Educational Services",12
+"Colorado","Idaho","outflow_from_co","Educational Services",11
+"Colorado","Illinois","outflow_from_co","Educational Services",43
+"Colorado","Indiana","outflow_from_co","Educational Services",14
+"Colorado","Iowa","outflow_from_co","Educational Services",15
+"Colorado","Kansas","outflow_from_co","Educational Services",30
+"Colorado","Kentucky","outflow_from_co","Educational Services",9
+"Colorado","Louisiana","outflow_from_co","Educational Services",9
+"Colorado","Maine","outflow_from_co","Educational Services",8
+"Colorado","Maryland","outflow_from_co","Educational Services",18
+"Colorado","Massachusetts","outflow_from_co","Educational Services",34
+"Colorado","Michigan","outflow_from_co","Educational Services",NA
+"Colorado","Minnesota","outflow_from_co","Educational Services",31
+"Colorado","Mississippi","outflow_from_co","Educational Services",NA
+"Colorado","Missouri","outflow_from_co","Educational Services",33
+"Colorado","Montana","outflow_from_co","Educational Services",13
+"Colorado","Nebraska","outflow_from_co","Educational Services",21
+"Colorado","Nevada","outflow_from_co","Educational Services",15
+"Colorado","New Hampshire","outflow_from_co","Educational Services",8
+"Colorado","New Jersey","outflow_from_co","Educational Services",16
+"Colorado","New Mexico","outflow_from_co","Educational Services",36
+"Colorado","New York","outflow_from_co","Educational Services",42
+"Colorado","North Carolina","outflow_from_co","Educational Services",NA
+"Colorado","North Dakota","outflow_from_co","Educational Services",2
+"Colorado","Ohio","outflow_from_co","Educational Services",26
+"Colorado","Oklahoma","outflow_from_co","Educational Services",16
+"Colorado","Oregon","outflow_from_co","Educational Services",30
+"Colorado","Pennsylvania","outflow_from_co","Educational Services",28
+"Colorado","Rhode Island","outflow_from_co","Educational Services",3
+"Colorado","South Carolina","outflow_from_co","Educational Services",17
+"Colorado","South Dakota","outflow_from_co","Educational Services",7
+"Colorado","Tennessee","outflow_from_co","Educational Services",30
+"Colorado","Texas","outflow_from_co","Educational Services",109
+"Colorado","Utah","outflow_from_co","Educational Services",30
+"Colorado","Vermont","outflow_from_co","Educational Services",5
+"Colorado","Virginia","outflow_from_co","Educational Services",22
+"Colorado","Washington","outflow_from_co","Educational Services",44
+"Colorado","West Virginia","outflow_from_co","Educational Services",3
+"Colorado","Wisconsin","outflow_from_co","Educational Services",23
+"Colorado","Wyoming","outflow_from_co","Educational Services",24
+"Colorado","Alabama","outflow_from_co","Health Care and Social Assistance",28
+"Colorado","Alaska","outflow_from_co","Health Care and Social Assistance",NA
+"Colorado","Arizona","outflow_from_co","Health Care and Social Assistance",157
+"Colorado","Arkansas","outflow_from_co","Health Care and Social Assistance",28
+"Colorado","California","outflow_from_co","Health Care and Social Assistance",234
+"Colorado","Connecticut","outflow_from_co","Health Care and Social Assistance",15
+"Colorado","Delaware","outflow_from_co","Health Care and Social Assistance",2
+"Colorado","District of Columbia","outflow_from_co","Health Care and Social Assistance",9
+"Colorado","Florida","outflow_from_co","Health Care and Social Assistance",186
+"Colorado","Georgia","outflow_from_co","Health Care and Social Assistance",68
+"Colorado","Hawaii","outflow_from_co","Health Care and Social Assistance",21
+"Colorado","Idaho","outflow_from_co","Health Care and Social Assistance",34
+"Colorado","Illinois","outflow_from_co","Health Care and Social Assistance",70
+"Colorado","Indiana","outflow_from_co","Health Care and Social Assistance",39
+"Colorado","Iowa","outflow_from_co","Health Care and Social Assistance",35
+"Colorado","Kansas","outflow_from_co","Health Care and Social Assistance",68
+"Colorado","Kentucky","outflow_from_co","Health Care and Social Assistance",21
+"Colorado","Louisiana","outflow_from_co","Health Care and Social Assistance",20
+"Colorado","Maine","outflow_from_co","Health Care and Social Assistance",20
+"Colorado","Maryland","outflow_from_co","Health Care and Social Assistance",28
+"Colorado","Massachusetts","outflow_from_co","Health Care and Social Assistance",40
+"Colorado","Michigan","outflow_from_co","Health Care and Social Assistance",NA
+"Colorado","Minnesota","outflow_from_co","Health Care and Social Assistance",54
+"Colorado","Mississippi","outflow_from_co","Health Care and Social Assistance",NA
+"Colorado","Missouri","outflow_from_co","Health Care and Social Assistance",77
+"Colorado","Montana","outflow_from_co","Health Care and Social Assistance",44
+"Colorado","Nebraska","outflow_from_co","Health Care and Social Assistance",64
+"Colorado","Nevada","outflow_from_co","Health Care and Social Assistance",36
+"Colorado","New Hampshire","outflow_from_co","Health Care and Social Assistance",15
+"Colorado","New Jersey","outflow_from_co","Health Care and Social Assistance",22
+"Colorado","New Mexico","outflow_from_co","Health Care and Social Assistance",89
+"Colorado","New York","outflow_from_co","Health Care and Social Assistance",56
+"Colorado","North Carolina","outflow_from_co","Health Care and Social Assistance",NA
+"Colorado","North Dakota","outflow_from_co","Health Care and Social Assistance",12
+"Colorado","Ohio","outflow_from_co","Health Care and Social Assistance",50
+"Colorado","Oklahoma","outflow_from_co","Health Care and Social Assistance",53
+"Colorado","Oregon","outflow_from_co","Health Care and Social Assistance",74
+"Colorado","Pennsylvania","outflow_from_co","Health Care and Social Assistance",55
+"Colorado","Rhode Island","outflow_from_co","Health Care and Social Assistance",7
+"Colorado","South Carolina","outflow_from_co","Health Care and Social Assistance",43
+"Colorado","South Dakota","outflow_from_co","Health Care and Social Assistance",23
+"Colorado","Tennessee","outflow_from_co","Health Care and Social Assistance",79
+"Colorado","Texas","outflow_from_co","Health Care and Social Assistance",319
+"Colorado","Utah","outflow_from_co","Health Care and Social Assistance",72
+"Colorado","Vermont","outflow_from_co","Health Care and Social Assistance",12
+"Colorado","Virginia","outflow_from_co","Health Care and Social Assistance",58
+"Colorado","Washington","outflow_from_co","Health Care and Social Assistance",105
+"Colorado","West Virginia","outflow_from_co","Health Care and Social Assistance",6
+"Colorado","Wisconsin","outflow_from_co","Health Care and Social Assistance",53
+"Colorado","Wyoming","outflow_from_co","Health Care and Social Assistance",76
+"Colorado","Alabama","outflow_from_co","Arts, Entertainment, and Recreation",10
+"Colorado","Alaska","outflow_from_co","Arts, Entertainment, and Recreation",NA
+"Colorado","Arizona","outflow_from_co","Arts, Entertainment, and Recreation",42
+"Colorado","Arkansas","outflow_from_co","Arts, Entertainment, and Recreation",9
+"Colorado","California","outflow_from_co","Arts, Entertainment, and Recreation",92
+"Colorado","Connecticut","outflow_from_co","Arts, Entertainment, and Recreation",9
+"Colorado","Delaware","outflow_from_co","Arts, Entertainment, and Recreation",1
+"Colorado","District of Columbia","outflow_from_co","Arts, Entertainment, and Recreation",6
+"Colorado","Florida","outflow_from_co","Arts, Entertainment, and Recreation",67
+"Colorado","Georgia","outflow_from_co","Arts, Entertainment, and Recreation",26
+"Colorado","Hawaii","outflow_from_co","Arts, Entertainment, and Recreation",10
+"Colorado","Idaho","outflow_from_co","Arts, Entertainment, and Recreation",18
+"Colorado","Illinois","outflow_from_co","Arts, Entertainment, and Recreation",25
+"Colorado","Indiana","outflow_from_co","Arts, Entertainment, and Recreation",11
+"Colorado","Iowa","outflow_from_co","Arts, Entertainment, and Recreation",6
+"Colorado","Kansas","outflow_from_co","Arts, Entertainment, and Recreation",16
+"Colorado","Kentucky","outflow_from_co","Arts, Entertainment, and Recreation",5
+"Colorado","Louisiana","outflow_from_co","Arts, Entertainment, and Recreation",7
+"Colorado","Maine","outflow_from_co","Arts, Entertainment, and Recreation",20
+"Colorado","Maryland","outflow_from_co","Arts, Entertainment, and Recreation",9
+"Colorado","Massachusetts","outflow_from_co","Arts, Entertainment, and Recreation",30
+"Colorado","Michigan","outflow_from_co","Arts, Entertainment, and Recreation",NA
+"Colorado","Minnesota","outflow_from_co","Arts, Entertainment, and Recreation",25
+"Colorado","Mississippi","outflow_from_co","Arts, Entertainment, and Recreation",NA
+"Colorado","Missouri","outflow_from_co","Arts, Entertainment, and Recreation",18
+"Colorado","Montana","outflow_from_co","Arts, Entertainment, and Recreation",29
+"Colorado","Nebraska","outflow_from_co","Arts, Entertainment, and Recreation",14
+"Colorado","Nevada","outflow_from_co","Arts, Entertainment, and Recreation",14
+"Colorado","New Hampshire","outflow_from_co","Arts, Entertainment, and Recreation",7
+"Colorado","New Jersey","outflow_from_co","Arts, Entertainment, and Recreation",12
+"Colorado","New Mexico","outflow_from_co","Arts, Entertainment, and Recreation",25
+"Colorado","New York","outflow_from_co","Arts, Entertainment, and Recreation",51
+"Colorado","North Carolina","outflow_from_co","Arts, Entertainment, and Recreation",NA
+"Colorado","North Dakota","outflow_from_co","Arts, Entertainment, and Recreation",2
+"Colorado","Ohio","outflow_from_co","Arts, Entertainment, and Recreation",22
+"Colorado","Oklahoma","outflow_from_co","Arts, Entertainment, and Recreation",11
+"Colorado","Oregon","outflow_from_co","Arts, Entertainment, and Recreation",32
+"Colorado","Pennsylvania","outflow_from_co","Arts, Entertainment, and Recreation",22
+"Colorado","Rhode Island","outflow_from_co","Arts, Entertainment, and Recreation",6
+"Colorado","South Carolina","outflow_from_co","Arts, Entertainment, and Recreation",16
+"Colorado","South Dakota","outflow_from_co","Arts, Entertainment, and Recreation",11
+"Colorado","Tennessee","outflow_from_co","Arts, Entertainment, and Recreation",27
+"Colorado","Texas","outflow_from_co","Arts, Entertainment, and Recreation",84
+"Colorado","Utah","outflow_from_co","Arts, Entertainment, and Recreation",42
+"Colorado","Vermont","outflow_from_co","Arts, Entertainment, and Recreation",7
+"Colorado","Virginia","outflow_from_co","Arts, Entertainment, and Recreation",17
+"Colorado","Washington","outflow_from_co","Arts, Entertainment, and Recreation",33
+"Colorado","West Virginia","outflow_from_co","Arts, Entertainment, and Recreation",10
+"Colorado","Wisconsin","outflow_from_co","Arts, Entertainment, and Recreation",19
+"Colorado","Wyoming","outflow_from_co","Arts, Entertainment, and Recreation",53
+"Colorado","Alabama","outflow_from_co","Accommodation and Food Services",28
+"Colorado","Alaska","outflow_from_co","Accommodation and Food Services",NA
+"Colorado","Arizona","outflow_from_co","Accommodation and Food Services",183
+"Colorado","Arkansas","outflow_from_co","Accommodation and Food Services",32
+"Colorado","California","outflow_from_co","Accommodation and Food Services",376
+"Colorado","Connecticut","outflow_from_co","Accommodation and Food Services",16
+"Colorado","Delaware","outflow_from_co","Accommodation and Food Services",4
+"Colorado","District of Columbia","outflow_from_co","Accommodation and Food Services",12
+"Colorado","Florida","outflow_from_co","Accommodation and Food Services",239
+"Colorado","Georgia","outflow_from_co","Accommodation and Food Services",76
+"Colorado","Hawaii","outflow_from_co","Accommodation and Food Services",43
+"Colorado","Idaho","outflow_from_co","Accommodation and Food Services",42
+"Colorado","Illinois","outflow_from_co","Accommodation and Food Services",101
+"Colorado","Indiana","outflow_from_co","Accommodation and Food Services",45
+"Colorado","Iowa","outflow_from_co","Accommodation and Food Services",34
+"Colorado","Kansas","outflow_from_co","Accommodation and Food Services",75
+"Colorado","Kentucky","outflow_from_co","Accommodation and Food Services",27
+"Colorado","Louisiana","outflow_from_co","Accommodation and Food Services",36
+"Colorado","Maine","outflow_from_co","Accommodation and Food Services",30
+"Colorado","Maryland","outflow_from_co","Accommodation and Food Services",33
+"Colorado","Massachusetts","outflow_from_co","Accommodation and Food Services",74
+"Colorado","Michigan","outflow_from_co","Accommodation and Food Services",NA
+"Colorado","Minnesota","outflow_from_co","Accommodation and Food Services",69
+"Colorado","Mississippi","outflow_from_co","Accommodation and Food Services",NA
+"Colorado","Missouri","outflow_from_co","Accommodation and Food Services",79
+"Colorado","Montana","outflow_from_co","Accommodation and Food Services",62
+"Colorado","Nebraska","outflow_from_co","Accommodation and Food Services",52
+"Colorado","Nevada","outflow_from_co","Accommodation and Food Services",63
+"Colorado","New Hampshire","outflow_from_co","Accommodation and Food Services",19
+"Colorado","New Jersey","outflow_from_co","Accommodation and Food Services",38
+"Colorado","New Mexico","outflow_from_co","Accommodation and Food Services",91
+"Colorado","New York","outflow_from_co","Accommodation and Food Services",120
+"Colorado","North Carolina","outflow_from_co","Accommodation and Food Services",NA
+"Colorado","North Dakota","outflow_from_co","Accommodation and Food Services",23
+"Colorado","Ohio","outflow_from_co","Accommodation and Food Services",60
+"Colorado","Oklahoma","outflow_from_co","Accommodation and Food Services",59
+"Colorado","Oregon","outflow_from_co","Accommodation and Food Services",83
+"Colorado","Pennsylvania","outflow_from_co","Accommodation and Food Services",57
+"Colorado","Rhode Island","outflow_from_co","Accommodation and Food Services",15
+"Colorado","South Carolina","outflow_from_co","Accommodation and Food Services",52
+"Colorado","South Dakota","outflow_from_co","Accommodation and Food Services",27
+"Colorado","Tennessee","outflow_from_co","Accommodation and Food Services",72
+"Colorado","Texas","outflow_from_co","Accommodation and Food Services",357
+"Colorado","Utah","outflow_from_co","Accommodation and Food Services",102
+"Colorado","Vermont","outflow_from_co","Accommodation and Food Services",14
+"Colorado","Virginia","outflow_from_co","Accommodation and Food Services",48
+"Colorado","Washington","outflow_from_co","Accommodation and Food Services",118
+"Colorado","West Virginia","outflow_from_co","Accommodation and Food Services",8
+"Colorado","Wisconsin","outflow_from_co","Accommodation and Food Services",52
+"Colorado","Wyoming","outflow_from_co","Accommodation and Food Services",100
+"Colorado","Alabama","outflow_from_co","Other Services (except Public Administration)",10
+"Colorado","Alaska","outflow_from_co","Other Services (except Public Administration)",NA
+"Colorado","Arizona","outflow_from_co","Other Services (except Public Administration)",40
+"Colorado","Arkansas","outflow_from_co","Other Services (except Public Administration)",11
+"Colorado","California","outflow_from_co","Other Services (except Public Administration)",60
+"Colorado","Connecticut","outflow_from_co","Other Services (except Public Administration)",2
+"Colorado","Delaware","outflow_from_co","Other Services (except Public Administration)",2
+"Colorado","District of Columbia","outflow_from_co","Other Services (except Public Administration)",9
+"Colorado","Florida","outflow_from_co","Other Services (except Public Administration)",52
+"Colorado","Georgia","outflow_from_co","Other Services (except Public Administration)",14
+"Colorado","Hawaii","outflow_from_co","Other Services (except Public Administration)",6
+"Colorado","Idaho","outflow_from_co","Other Services (except Public Administration)",10
+"Colorado","Illinois","outflow_from_co","Other Services (except Public Administration)",22
+"Colorado","Indiana","outflow_from_co","Other Services (except Public Administration)",11
+"Colorado","Iowa","outflow_from_co","Other Services (except Public Administration)",7
+"Colorado","Kansas","outflow_from_co","Other Services (except Public Administration)",20
+"Colorado","Kentucky","outflow_from_co","Other Services (except Public Administration)",5
+"Colorado","Louisiana","outflow_from_co","Other Services (except Public Administration)",3
+"Colorado","Maine","outflow_from_co","Other Services (except Public Administration)",5
+"Colorado","Maryland","outflow_from_co","Other Services (except Public Administration)",6
+"Colorado","Massachusetts","outflow_from_co","Other Services (except Public Administration)",6
+"Colorado","Michigan","outflow_from_co","Other Services (except Public Administration)",NA
+"Colorado","Minnesota","outflow_from_co","Other Services (except Public Administration)",15
+"Colorado","Mississippi","outflow_from_co","Other Services (except Public Administration)",NA
+"Colorado","Missouri","outflow_from_co","Other Services (except Public Administration)",17
+"Colorado","Montana","outflow_from_co","Other Services (except Public Administration)",10
+"Colorado","Nebraska","outflow_from_co","Other Services (except Public Administration)",15
+"Colorado","Nevada","outflow_from_co","Other Services (except Public Administration)",10
+"Colorado","New Hampshire","outflow_from_co","Other Services (except Public Administration)",4
+"Colorado","New Jersey","outflow_from_co","Other Services (except Public Administration)",6
+"Colorado","New Mexico","outflow_from_co","Other Services (except Public Administration)",24
+"Colorado","New York","outflow_from_co","Other Services (except Public Administration)",18
+"Colorado","North Carolina","outflow_from_co","Other Services (except Public Administration)",NA
+"Colorado","North Dakota","outflow_from_co","Other Services (except Public Administration)",5
+"Colorado","Ohio","outflow_from_co","Other Services (except Public Administration)",12
+"Colorado","Oklahoma","outflow_from_co","Other Services (except Public Administration)",16
+"Colorado","Oregon","outflow_from_co","Other Services (except Public Administration)",13
+"Colorado","Pennsylvania","outflow_from_co","Other Services (except Public Administration)",10
+"Colorado","Rhode Island","outflow_from_co","Other Services (except Public Administration)",3
+"Colorado","South Carolina","outflow_from_co","Other Services (except Public Administration)",7
+"Colorado","South Dakota","outflow_from_co","Other Services (except Public Administration)",8
+"Colorado","Tennessee","outflow_from_co","Other Services (except Public Administration)",13
+"Colorado","Texas","outflow_from_co","Other Services (except Public Administration)",79
+"Colorado","Utah","outflow_from_co","Other Services (except Public Administration)",19
+"Colorado","Vermont","outflow_from_co","Other Services (except Public Administration)",1
+"Colorado","Virginia","outflow_from_co","Other Services (except Public Administration)",17
+"Colorado","Washington","outflow_from_co","Other Services (except Public Administration)",24
+"Colorado","West Virginia","outflow_from_co","Other Services (except Public Administration)",1
+"Colorado","Wisconsin","outflow_from_co","Other Services (except Public Administration)",11
+"Colorado","Wyoming","outflow_from_co","Other Services (except Public Administration)",23
+"Colorado","Alabama","outflow_from_co","Public Administration",4
+"Colorado","Alaska","outflow_from_co","Public Administration",NA
+"Colorado","Arizona","outflow_from_co","Public Administration",23
+"Colorado","Arkansas","outflow_from_co","Public Administration",5
+"Colorado","California","outflow_from_co","Public Administration",41
+"Colorado","Connecticut","outflow_from_co","Public Administration",3
+"Colorado","Delaware","outflow_from_co","Public Administration",1
+"Colorado","District of Columbia","outflow_from_co","Public Administration",2
+"Colorado","Florida","outflow_from_co","Public Administration",27
+"Colorado","Georgia","outflow_from_co","Public Administration",9
+"Colorado","Hawaii","outflow_from_co","Public Administration",2
+"Colorado","Idaho","outflow_from_co","Public Administration",3
+"Colorado","Illinois","outflow_from_co","Public Administration",12
+"Colorado","Indiana","outflow_from_co","Public Administration",6
+"Colorado","Iowa","outflow_from_co","Public Administration",4
+"Colorado","Kansas","outflow_from_co","Public Administration",13
+"Colorado","Kentucky","outflow_from_co","Public Administration",4
+"Colorado","Louisiana","outflow_from_co","Public Administration",3
+"Colorado","Maine","outflow_from_co","Public Administration",4
+"Colorado","Maryland","outflow_from_co","Public Administration",3
+"Colorado","Massachusetts","outflow_from_co","Public Administration",6
+"Colorado","Michigan","outflow_from_co","Public Administration",NA
+"Colorado","Minnesota","outflow_from_co","Public Administration",10
+"Colorado","Mississippi","outflow_from_co","Public Administration",NA
+"Colorado","Missouri","outflow_from_co","Public Administration",10
+"Colorado","Montana","outflow_from_co","Public Administration",6
+"Colorado","Nebraska","outflow_from_co","Public Administration",12
+"Colorado","Nevada","outflow_from_co","Public Administration",6
+"Colorado","New Hampshire","outflow_from_co","Public Administration",2
+"Colorado","New Jersey","outflow_from_co","Public Administration",8
+"Colorado","New Mexico","outflow_from_co","Public Administration",16
+"Colorado","New York","outflow_from_co","Public Administration",11
+"Colorado","North Carolina","outflow_from_co","Public Administration",NA
+"Colorado","North Dakota","outflow_from_co","Public Administration",3
+"Colorado","Ohio","outflow_from_co","Public Administration",11
+"Colorado","Oklahoma","outflow_from_co","Public Administration",8
+"Colorado","Oregon","outflow_from_co","Public Administration",12
+"Colorado","Pennsylvania","outflow_from_co","Public Administration",8
+"Colorado","Rhode Island","outflow_from_co","Public Administration",1
+"Colorado","South Carolina","outflow_from_co","Public Administration",7
+"Colorado","South Dakota","outflow_from_co","Public Administration",6
+"Colorado","Tennessee","outflow_from_co","Public Administration",6
+"Colorado","Texas","outflow_from_co","Public Administration",44
+"Colorado","Utah","outflow_from_co","Public Administration",11
+"Colorado","Vermont","outflow_from_co","Public Administration",2
+"Colorado","Virginia","outflow_from_co","Public Administration",10
+"Colorado","Washington","outflow_from_co","Public Administration",16
+"Colorado","West Virginia","outflow_from_co","Public Administration",1
+"Colorado","Wisconsin","outflow_from_co","Public Administration",8
+"Colorado","Wyoming","outflow_from_co","Public Administration",16

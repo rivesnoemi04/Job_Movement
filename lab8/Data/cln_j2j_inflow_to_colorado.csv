@@ -1,0 +1,1001 @@
+"from_state","to_state","direction","naics_sector","avg_n_job"
+"Alabama","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Alabama","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Alabama","Colorado","inflow_to_co","Utilities",0
+"Alabama","Colorado","inflow_to_co","Construction",17
+"Alabama","Colorado","inflow_to_co","Manufacturing",12
+"Alabama","Colorado","inflow_to_co","Wholesale Trade",8
+"Alabama","Colorado","inflow_to_co","Retail Trade",21
+"Alabama","Colorado","inflow_to_co","Transportation and Warehousing",18
+"Alabama","Colorado","inflow_to_co","Information",8
+"Alabama","Colorado","inflow_to_co","Finance and Insurance",10
+"Alabama","Colorado","inflow_to_co","Real Estate and Rental and Leasing",6
+"Alabama","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",42
+"Alabama","Colorado","inflow_to_co","Management of Companies and Enterprises",5
+"Alabama","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",32
+"Alabama","Colorado","inflow_to_co","Educational Services",11
+"Alabama","Colorado","inflow_to_co","Health Care and Social Assistance",25
+"Alabama","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",11
+"Alabama","Colorado","inflow_to_co","Accommodation and Food Services",32
+"Alabama","Colorado","inflow_to_co","Other Services (except Public Administration)",6
+"Alabama","Colorado","inflow_to_co","Public Administration",3
+"Alaska","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Alaska","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Alaska","Colorado","inflow_to_co","Utilities",NA
+"Alaska","Colorado","inflow_to_co","Construction",NA
+"Alaska","Colorado","inflow_to_co","Manufacturing",NA
+"Alaska","Colorado","inflow_to_co","Wholesale Trade",NA
+"Alaska","Colorado","inflow_to_co","Retail Trade",NA
+"Alaska","Colorado","inflow_to_co","Transportation and Warehousing",NA
+"Alaska","Colorado","inflow_to_co","Information",NA
+"Alaska","Colorado","inflow_to_co","Finance and Insurance",NA
+"Alaska","Colorado","inflow_to_co","Real Estate and Rental and Leasing",NA
+"Alaska","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",NA
+"Alaska","Colorado","inflow_to_co","Management of Companies and Enterprises",NA
+"Alaska","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Alaska","Colorado","inflow_to_co","Educational Services",NA
+"Alaska","Colorado","inflow_to_co","Health Care and Social Assistance",NA
+"Alaska","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",NA
+"Alaska","Colorado","inflow_to_co","Accommodation and Food Services",NA
+"Alaska","Colorado","inflow_to_co","Other Services (except Public Administration)",NA
+"Alaska","Colorado","inflow_to_co","Public Administration",NA
+"Arizona","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",17
+"Arizona","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",19
+"Arizona","Colorado","inflow_to_co","Utilities",3
+"Arizona","Colorado","inflow_to_co","Construction",129
+"Arizona","Colorado","inflow_to_co","Manufacturing",47
+"Arizona","Colorado","inflow_to_co","Wholesale Trade",52
+"Arizona","Colorado","inflow_to_co","Retail Trade",137
+"Arizona","Colorado","inflow_to_co","Transportation and Warehousing",107
+"Arizona","Colorado","inflow_to_co","Information",30
+"Arizona","Colorado","inflow_to_co","Finance and Insurance",57
+"Arizona","Colorado","inflow_to_co","Real Estate and Rental and Leasing",35
+"Arizona","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",149
+"Arizona","Colorado","inflow_to_co","Management of Companies and Enterprises",22
+"Arizona","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",162
+"Arizona","Colorado","inflow_to_co","Educational Services",66
+"Arizona","Colorado","inflow_to_co","Health Care and Social Assistance",173
+"Arizona","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",72
+"Arizona","Colorado","inflow_to_co","Accommodation and Food Services",187
+"Arizona","Colorado","inflow_to_co","Other Services (except Public Administration)",42
+"Arizona","Colorado","inflow_to_co","Public Administration",28
+"Arkansas","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"Arkansas","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",5
+"Arkansas","Colorado","inflow_to_co","Utilities",1
+"Arkansas","Colorado","inflow_to_co","Construction",21
+"Arkansas","Colorado","inflow_to_co","Manufacturing",7
+"Arkansas","Colorado","inflow_to_co","Wholesale Trade",7
+"Arkansas","Colorado","inflow_to_co","Retail Trade",19
+"Arkansas","Colorado","inflow_to_co","Transportation and Warehousing",19
+"Arkansas","Colorado","inflow_to_co","Information",3
+"Arkansas","Colorado","inflow_to_co","Finance and Insurance",7
+"Arkansas","Colorado","inflow_to_co","Real Estate and Rental and Leasing",4
+"Arkansas","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",23
+"Arkansas","Colorado","inflow_to_co","Management of Companies and Enterprises",3
+"Arkansas","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",26
+"Arkansas","Colorado","inflow_to_co","Educational Services",8
+"Arkansas","Colorado","inflow_to_co","Health Care and Social Assistance",27
+"Arkansas","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",6
+"Arkansas","Colorado","inflow_to_co","Accommodation and Food Services",30
+"Arkansas","Colorado","inflow_to_co","Other Services (except Public Administration)",4
+"Arkansas","Colorado","inflow_to_co","Public Administration",5
+"California","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",24
+"California","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",20
+"California","Colorado","inflow_to_co","Utilities",5
+"California","Colorado","inflow_to_co","Construction",181
+"California","Colorado","inflow_to_co","Manufacturing",111
+"California","Colorado","inflow_to_co","Wholesale Trade",140
+"California","Colorado","inflow_to_co","Retail Trade",256
+"California","Colorado","inflow_to_co","Transportation and Warehousing",276
+"California","Colorado","inflow_to_co","Information",126
+"California","Colorado","inflow_to_co","Finance and Insurance",100
+"California","Colorado","inflow_to_co","Real Estate and Rental and Leasing",62
+"California","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",579
+"California","Colorado","inflow_to_co","Management of Companies and Enterprises",48
+"California","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",287
+"California","Colorado","inflow_to_co","Educational Services",162
+"California","Colorado","inflow_to_co","Health Care and Social Assistance",303
+"California","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",104
+"California","Colorado","inflow_to_co","Accommodation and Food Services",376
+"California","Colorado","inflow_to_co","Other Services (except Public Administration)",80
+"California","Colorado","inflow_to_co","Public Administration",51
+"Connecticut","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"Connecticut","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Connecticut","Colorado","inflow_to_co","Utilities",1
+"Connecticut","Colorado","inflow_to_co","Construction",4
+"Connecticut","Colorado","inflow_to_co","Manufacturing",13
+"Connecticut","Colorado","inflow_to_co","Wholesale Trade",6
+"Connecticut","Colorado","inflow_to_co","Retail Trade",9
+"Connecticut","Colorado","inflow_to_co","Transportation and Warehousing",4
+"Connecticut","Colorado","inflow_to_co","Information",7
+"Connecticut","Colorado","inflow_to_co","Finance and Insurance",12
+"Connecticut","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"Connecticut","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",31
+"Connecticut","Colorado","inflow_to_co","Management of Companies and Enterprises",2
+"Connecticut","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",17
+"Connecticut","Colorado","inflow_to_co","Educational Services",9
+"Connecticut","Colorado","inflow_to_co","Health Care and Social Assistance",20
+"Connecticut","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",5
+"Connecticut","Colorado","inflow_to_co","Accommodation and Food Services",17
+"Connecticut","Colorado","inflow_to_co","Other Services (except Public Administration)",2
+"Connecticut","Colorado","inflow_to_co","Public Administration",2
+"Delaware","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"Delaware","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Delaware","Colorado","inflow_to_co","Utilities",0
+"Delaware","Colorado","inflow_to_co","Construction",1
+"Delaware","Colorado","inflow_to_co","Manufacturing",1
+"Delaware","Colorado","inflow_to_co","Wholesale Trade",1
+"Delaware","Colorado","inflow_to_co","Retail Trade",3
+"Delaware","Colorado","inflow_to_co","Transportation and Warehousing",2
+"Delaware","Colorado","inflow_to_co","Information",2
+"Delaware","Colorado","inflow_to_co","Finance and Insurance",1
+"Delaware","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"Delaware","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",3
+"Delaware","Colorado","inflow_to_co","Management of Companies and Enterprises",1
+"Delaware","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",3
+"Delaware","Colorado","inflow_to_co","Educational Services",2
+"Delaware","Colorado","inflow_to_co","Health Care and Social Assistance",3
+"Delaware","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",1
+"Delaware","Colorado","inflow_to_co","Accommodation and Food Services",5
+"Delaware","Colorado","inflow_to_co","Other Services (except Public Administration)",1
+"Delaware","Colorado","inflow_to_co","Public Administration",0
+"District of Columbia","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"District of Columbia","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"District of Columbia","Colorado","inflow_to_co","Utilities",0
+"District of Columbia","Colorado","inflow_to_co","Construction",4
+"District of Columbia","Colorado","inflow_to_co","Manufacturing",2
+"District of Columbia","Colorado","inflow_to_co","Wholesale Trade",2
+"District of Columbia","Colorado","inflow_to_co","Retail Trade",5
+"District of Columbia","Colorado","inflow_to_co","Transportation and Warehousing",1
+"District of Columbia","Colorado","inflow_to_co","Information",10
+"District of Columbia","Colorado","inflow_to_co","Finance and Insurance",5
+"District of Columbia","Colorado","inflow_to_co","Real Estate and Rental and Leasing",3
+"District of Columbia","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",45
+"District of Columbia","Colorado","inflow_to_co","Management of Companies and Enterprises",3
+"District of Columbia","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",12
+"District of Columbia","Colorado","inflow_to_co","Educational Services",10
+"District of Columbia","Colorado","inflow_to_co","Health Care and Social Assistance",12
+"District of Columbia","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",4
+"District of Columbia","Colorado","inflow_to_co","Accommodation and Food Services",10
+"District of Columbia","Colorado","inflow_to_co","Other Services (except Public Administration)",12
+"District of Columbia","Colorado","inflow_to_co","Public Administration",1
+"Florida","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",8
+"Florida","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",8
+"Florida","Colorado","inflow_to_co","Utilities",4
+"Florida","Colorado","inflow_to_co","Construction",105
+"Florida","Colorado","inflow_to_co","Manufacturing",65
+"Florida","Colorado","inflow_to_co","Wholesale Trade",64
+"Florida","Colorado","inflow_to_co","Retail Trade",164
+"Florida","Colorado","inflow_to_co","Transportation and Warehousing",151
+"Florida","Colorado","inflow_to_co","Information",51
+"Florida","Colorado","inflow_to_co","Finance and Insurance",79
+"Florida","Colorado","inflow_to_co","Real Estate and Rental and Leasing",42
+"Florida","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",259
+"Florida","Colorado","inflow_to_co","Management of Companies and Enterprises",33
+"Florida","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",207
+"Florida","Colorado","inflow_to_co","Educational Services",76
+"Florida","Colorado","inflow_to_co","Health Care and Social Assistance",210
+"Florida","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",65
+"Florida","Colorado","inflow_to_co","Accommodation and Food Services",287
+"Florida","Colorado","inflow_to_co","Other Services (except Public Administration)",58
+"Florida","Colorado","inflow_to_co","Public Administration",31
+"Georgia","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Georgia","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Georgia","Colorado","inflow_to_co","Utilities",1
+"Georgia","Colorado","inflow_to_co","Construction",43
+"Georgia","Colorado","inflow_to_co","Manufacturing",17
+"Georgia","Colorado","inflow_to_co","Wholesale Trade",30
+"Georgia","Colorado","inflow_to_co","Retail Trade",48
+"Georgia","Colorado","inflow_to_co","Transportation and Warehousing",63
+"Georgia","Colorado","inflow_to_co","Information",31
+"Georgia","Colorado","inflow_to_co","Finance and Insurance",19
+"Georgia","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Georgia","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",115
+"Georgia","Colorado","inflow_to_co","Management of Companies and Enterprises",14
+"Georgia","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",85
+"Georgia","Colorado","inflow_to_co","Educational Services",37
+"Georgia","Colorado","inflow_to_co","Health Care and Social Assistance",73
+"Georgia","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",22
+"Georgia","Colorado","inflow_to_co","Accommodation and Food Services",78
+"Georgia","Colorado","inflow_to_co","Other Services (except Public Administration)",18
+"Georgia","Colorado","inflow_to_co","Public Administration",14
+"Hawaii","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"Hawaii","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Hawaii","Colorado","inflow_to_co","Utilities",1
+"Hawaii","Colorado","inflow_to_co","Construction",12
+"Hawaii","Colorado","inflow_to_co","Manufacturing",3
+"Hawaii","Colorado","inflow_to_co","Wholesale Trade",2
+"Hawaii","Colorado","inflow_to_co","Retail Trade",15
+"Hawaii","Colorado","inflow_to_co","Transportation and Warehousing",17
+"Hawaii","Colorado","inflow_to_co","Information",5
+"Hawaii","Colorado","inflow_to_co","Finance and Insurance",3
+"Hawaii","Colorado","inflow_to_co","Real Estate and Rental and Leasing",4
+"Hawaii","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",15
+"Hawaii","Colorado","inflow_to_co","Management of Companies and Enterprises",3
+"Hawaii","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",19
+"Hawaii","Colorado","inflow_to_co","Educational Services",8
+"Hawaii","Colorado","inflow_to_co","Health Care and Social Assistance",22
+"Hawaii","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",8
+"Hawaii","Colorado","inflow_to_co","Accommodation and Food Services",35
+"Hawaii","Colorado","inflow_to_co","Other Services (except Public Administration)",6
+"Hawaii","Colorado","inflow_to_co","Public Administration",3
+"Idaho","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Idaho","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Idaho","Colorado","inflow_to_co","Utilities",2
+"Idaho","Colorado","inflow_to_co","Construction",36
+"Idaho","Colorado","inflow_to_co","Manufacturing",16
+"Idaho","Colorado","inflow_to_co","Wholesale Trade",12
+"Idaho","Colorado","inflow_to_co","Retail Trade",27
+"Idaho","Colorado","inflow_to_co","Transportation and Warehousing",12
+"Idaho","Colorado","inflow_to_co","Information",4
+"Idaho","Colorado","inflow_to_co","Finance and Insurance",6
+"Idaho","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"Idaho","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",30
+"Idaho","Colorado","inflow_to_co","Management of Companies and Enterprises",5
+"Idaho","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",34
+"Idaho","Colorado","inflow_to_co","Educational Services",17
+"Idaho","Colorado","inflow_to_co","Health Care and Social Assistance",38
+"Idaho","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",9
+"Idaho","Colorado","inflow_to_co","Accommodation and Food Services",39
+"Idaho","Colorado","inflow_to_co","Other Services (except Public Administration)",7
+"Idaho","Colorado","inflow_to_co","Public Administration",8
+"Illinois","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",4
+"Illinois","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",4
+"Illinois","Colorado","inflow_to_co","Utilities",4
+"Illinois","Colorado","inflow_to_co","Construction",42
+"Illinois","Colorado","inflow_to_co","Manufacturing",29
+"Illinois","Colorado","inflow_to_co","Wholesale Trade",59
+"Illinois","Colorado","inflow_to_co","Retail Trade",68
+"Illinois","Colorado","inflow_to_co","Transportation and Warehousing",117
+"Illinois","Colorado","inflow_to_co","Information",37
+"Illinois","Colorado","inflow_to_co","Finance and Insurance",59
+"Illinois","Colorado","inflow_to_co","Real Estate and Rental and Leasing",17
+"Illinois","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",216
+"Illinois","Colorado","inflow_to_co","Management of Companies and Enterprises",25
+"Illinois","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",68
+"Illinois","Colorado","inflow_to_co","Educational Services",56
+"Illinois","Colorado","inflow_to_co","Health Care and Social Assistance",100
+"Illinois","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",24
+"Illinois","Colorado","inflow_to_co","Accommodation and Food Services",86
+"Illinois","Colorado","inflow_to_co","Other Services (except Public Administration)",24
+"Illinois","Colorado","inflow_to_co","Public Administration",14
+"Indiana","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Indiana","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Indiana","Colorado","inflow_to_co","Utilities",1
+"Indiana","Colorado","inflow_to_co","Construction",29
+"Indiana","Colorado","inflow_to_co","Manufacturing",19
+"Indiana","Colorado","inflow_to_co","Wholesale Trade",16
+"Indiana","Colorado","inflow_to_co","Retail Trade",32
+"Indiana","Colorado","inflow_to_co","Transportation and Warehousing",24
+"Indiana","Colorado","inflow_to_co","Information",10
+"Indiana","Colorado","inflow_to_co","Finance and Insurance",12
+"Indiana","Colorado","inflow_to_co","Real Estate and Rental and Leasing",7
+"Indiana","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",56
+"Indiana","Colorado","inflow_to_co","Management of Companies and Enterprises",9
+"Indiana","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",42
+"Indiana","Colorado","inflow_to_co","Educational Services",28
+"Indiana","Colorado","inflow_to_co","Health Care and Social Assistance",51
+"Indiana","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",14
+"Indiana","Colorado","inflow_to_co","Accommodation and Food Services",50
+"Indiana","Colorado","inflow_to_co","Other Services (except Public Administration)",16
+"Indiana","Colorado","inflow_to_co","Public Administration",5
+"Iowa","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Iowa","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Iowa","Colorado","inflow_to_co","Utilities",1
+"Iowa","Colorado","inflow_to_co","Construction",24
+"Iowa","Colorado","inflow_to_co","Manufacturing",15
+"Iowa","Colorado","inflow_to_co","Wholesale Trade",13
+"Iowa","Colorado","inflow_to_co","Retail Trade",36
+"Iowa","Colorado","inflow_to_co","Transportation and Warehousing",17
+"Iowa","Colorado","inflow_to_co","Information",5
+"Iowa","Colorado","inflow_to_co","Finance and Insurance",15
+"Iowa","Colorado","inflow_to_co","Real Estate and Rental and Leasing",3
+"Iowa","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",42
+"Iowa","Colorado","inflow_to_co","Management of Companies and Enterprises",5
+"Iowa","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",38
+"Iowa","Colorado","inflow_to_co","Educational Services",24
+"Iowa","Colorado","inflow_to_co","Health Care and Social Assistance",51
+"Iowa","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",11
+"Iowa","Colorado","inflow_to_co","Accommodation and Food Services",45
+"Iowa","Colorado","inflow_to_co","Other Services (except Public Administration)",10
+"Iowa","Colorado","inflow_to_co","Public Administration",6
+"Kansas","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",10
+"Kansas","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",8
+"Kansas","Colorado","inflow_to_co","Utilities",3
+"Kansas","Colorado","inflow_to_co","Construction",69
+"Kansas","Colorado","inflow_to_co","Manufacturing",23
+"Kansas","Colorado","inflow_to_co","Wholesale Trade",28
+"Kansas","Colorado","inflow_to_co","Retail Trade",52
+"Kansas","Colorado","inflow_to_co","Transportation and Warehousing",35
+"Kansas","Colorado","inflow_to_co","Information",8
+"Kansas","Colorado","inflow_to_co","Finance and Insurance",15
+"Kansas","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Kansas","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",50
+"Kansas","Colorado","inflow_to_co","Management of Companies and Enterprises",7
+"Kansas","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",50
+"Kansas","Colorado","inflow_to_co","Educational Services",32
+"Kansas","Colorado","inflow_to_co","Health Care and Social Assistance",67
+"Kansas","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",16
+"Kansas","Colorado","inflow_to_co","Accommodation and Food Services",68
+"Kansas","Colorado","inflow_to_co","Other Services (except Public Administration)",16
+"Kansas","Colorado","inflow_to_co","Public Administration",15
+"Kentucky","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"Kentucky","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Kentucky","Colorado","inflow_to_co","Utilities",1
+"Kentucky","Colorado","inflow_to_co","Construction",14
+"Kentucky","Colorado","inflow_to_co","Manufacturing",8
+"Kentucky","Colorado","inflow_to_co","Wholesale Trade",9
+"Kentucky","Colorado","inflow_to_co","Retail Trade",16
+"Kentucky","Colorado","inflow_to_co","Transportation and Warehousing",18
+"Kentucky","Colorado","inflow_to_co","Information",4
+"Kentucky","Colorado","inflow_to_co","Finance and Insurance",9
+"Kentucky","Colorado","inflow_to_co","Real Estate and Rental and Leasing",4
+"Kentucky","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",18
+"Kentucky","Colorado","inflow_to_co","Management of Companies and Enterprises",3
+"Kentucky","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",27
+"Kentucky","Colorado","inflow_to_co","Educational Services",12
+"Kentucky","Colorado","inflow_to_co","Health Care and Social Assistance",24
+"Kentucky","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",8
+"Kentucky","Colorado","inflow_to_co","Accommodation and Food Services",23
+"Kentucky","Colorado","inflow_to_co","Other Services (except Public Administration)",6
+"Kentucky","Colorado","inflow_to_co","Public Administration",2
+"Louisiana","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"Louisiana","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",9
+"Louisiana","Colorado","inflow_to_co","Utilities",2
+"Louisiana","Colorado","inflow_to_co","Construction",35
+"Louisiana","Colorado","inflow_to_co","Manufacturing",9
+"Louisiana","Colorado","inflow_to_co","Wholesale Trade",5
+"Louisiana","Colorado","inflow_to_co","Retail Trade",30
+"Louisiana","Colorado","inflow_to_co","Transportation and Warehousing",21
+"Louisiana","Colorado","inflow_to_co","Information",5
+"Louisiana","Colorado","inflow_to_co","Finance and Insurance",9
+"Louisiana","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Louisiana","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",32
+"Louisiana","Colorado","inflow_to_co","Management of Companies and Enterprises",6
+"Louisiana","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",46
+"Louisiana","Colorado","inflow_to_co","Educational Services",19
+"Louisiana","Colorado","inflow_to_co","Health Care and Social Assistance",35
+"Louisiana","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",9
+"Louisiana","Colorado","inflow_to_co","Accommodation and Food Services",49
+"Louisiana","Colorado","inflow_to_co","Other Services (except Public Administration)",12
+"Louisiana","Colorado","inflow_to_co","Public Administration",4
+"Maine","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"Maine","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Maine","Colorado","inflow_to_co","Utilities",0
+"Maine","Colorado","inflow_to_co","Construction",6
+"Maine","Colorado","inflow_to_co","Manufacturing",3
+"Maine","Colorado","inflow_to_co","Wholesale Trade",1
+"Maine","Colorado","inflow_to_co","Retail Trade",6
+"Maine","Colorado","inflow_to_co","Transportation and Warehousing",4
+"Maine","Colorado","inflow_to_co","Information",2
+"Maine","Colorado","inflow_to_co","Finance and Insurance",3
+"Maine","Colorado","inflow_to_co","Real Estate and Rental and Leasing",1
+"Maine","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",12
+"Maine","Colorado","inflow_to_co","Management of Companies and Enterprises",2
+"Maine","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",14
+"Maine","Colorado","inflow_to_co","Educational Services",5
+"Maine","Colorado","inflow_to_co","Health Care and Social Assistance",15
+"Maine","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",4
+"Maine","Colorado","inflow_to_co","Accommodation and Food Services",11
+"Maine","Colorado","inflow_to_co","Other Services (except Public Administration)",2
+"Maine","Colorado","inflow_to_co","Public Administration",1
+"Maryland","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"Maryland","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Maryland","Colorado","inflow_to_co","Utilities",1
+"Maryland","Colorado","inflow_to_co","Construction",8
+"Maryland","Colorado","inflow_to_co","Manufacturing",12
+"Maryland","Colorado","inflow_to_co","Wholesale Trade",9
+"Maryland","Colorado","inflow_to_co","Retail Trade",19
+"Maryland","Colorado","inflow_to_co","Transportation and Warehousing",22
+"Maryland","Colorado","inflow_to_co","Information",14
+"Maryland","Colorado","inflow_to_co","Finance and Insurance",15
+"Maryland","Colorado","inflow_to_co","Real Estate and Rental and Leasing",4
+"Maryland","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",76
+"Maryland","Colorado","inflow_to_co","Management of Companies and Enterprises",5
+"Maryland","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",27
+"Maryland","Colorado","inflow_to_co","Educational Services",19
+"Maryland","Colorado","inflow_to_co","Health Care and Social Assistance",33
+"Maryland","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",7
+"Maryland","Colorado","inflow_to_co","Accommodation and Food Services",25
+"Maryland","Colorado","inflow_to_co","Other Services (except Public Administration)",9
+"Maryland","Colorado","inflow_to_co","Public Administration",4
+"Massachusetts","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",3
+"Massachusetts","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Massachusetts","Colorado","inflow_to_co","Utilities",1
+"Massachusetts","Colorado","inflow_to_co","Construction",15
+"Massachusetts","Colorado","inflow_to_co","Manufacturing",13
+"Massachusetts","Colorado","inflow_to_co","Wholesale Trade",13
+"Massachusetts","Colorado","inflow_to_co","Retail Trade",24
+"Massachusetts","Colorado","inflow_to_co","Transportation and Warehousing",10
+"Massachusetts","Colorado","inflow_to_co","Information",18
+"Massachusetts","Colorado","inflow_to_co","Finance and Insurance",20
+"Massachusetts","Colorado","inflow_to_co","Real Estate and Rental and Leasing",6
+"Massachusetts","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",102
+"Massachusetts","Colorado","inflow_to_co","Management of Companies and Enterprises",12
+"Massachusetts","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",47
+"Massachusetts","Colorado","inflow_to_co","Educational Services",43
+"Massachusetts","Colorado","inflow_to_co","Health Care and Social Assistance",51
+"Massachusetts","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",20
+"Massachusetts","Colorado","inflow_to_co","Accommodation and Food Services",43
+"Massachusetts","Colorado","inflow_to_co","Other Services (except Public Administration)",10
+"Massachusetts","Colorado","inflow_to_co","Public Administration",5
+"Michigan","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Michigan","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Michigan","Colorado","inflow_to_co","Utilities",NA
+"Michigan","Colorado","inflow_to_co","Construction",NA
+"Michigan","Colorado","inflow_to_co","Manufacturing",NA
+"Michigan","Colorado","inflow_to_co","Wholesale Trade",NA
+"Michigan","Colorado","inflow_to_co","Retail Trade",NA
+"Michigan","Colorado","inflow_to_co","Transportation and Warehousing",NA
+"Michigan","Colorado","inflow_to_co","Information",NA
+"Michigan","Colorado","inflow_to_co","Finance and Insurance",NA
+"Michigan","Colorado","inflow_to_co","Real Estate and Rental and Leasing",NA
+"Michigan","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",NA
+"Michigan","Colorado","inflow_to_co","Management of Companies and Enterprises",NA
+"Michigan","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Michigan","Colorado","inflow_to_co","Educational Services",NA
+"Michigan","Colorado","inflow_to_co","Health Care and Social Assistance",NA
+"Michigan","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",NA
+"Michigan","Colorado","inflow_to_co","Accommodation and Food Services",NA
+"Michigan","Colorado","inflow_to_co","Other Services (except Public Administration)",NA
+"Michigan","Colorado","inflow_to_co","Public Administration",NA
+"Minnesota","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",3
+"Minnesota","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Minnesota","Colorado","inflow_to_co","Utilities",3
+"Minnesota","Colorado","inflow_to_co","Construction",34
+"Minnesota","Colorado","inflow_to_co","Manufacturing",19
+"Minnesota","Colorado","inflow_to_co","Wholesale Trade",25
+"Minnesota","Colorado","inflow_to_co","Retail Trade",38
+"Minnesota","Colorado","inflow_to_co","Transportation and Warehousing",24
+"Minnesota","Colorado","inflow_to_co","Information",12
+"Minnesota","Colorado","inflow_to_co","Finance and Insurance",30
+"Minnesota","Colorado","inflow_to_co","Real Estate and Rental and Leasing",5
+"Minnesota","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",80
+"Minnesota","Colorado","inflow_to_co","Management of Companies and Enterprises",10
+"Minnesota","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",40
+"Minnesota","Colorado","inflow_to_co","Educational Services",36
+"Minnesota","Colorado","inflow_to_co","Health Care and Social Assistance",59
+"Minnesota","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",17
+"Minnesota","Colorado","inflow_to_co","Accommodation and Food Services",53
+"Minnesota","Colorado","inflow_to_co","Other Services (except Public Administration)",16
+"Minnesota","Colorado","inflow_to_co","Public Administration",8
+"Mississippi","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",NA
+"Mississippi","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"Mississippi","Colorado","inflow_to_co","Utilities",NA
+"Mississippi","Colorado","inflow_to_co","Construction",NA
+"Mississippi","Colorado","inflow_to_co","Manufacturing",NA
+"Mississippi","Colorado","inflow_to_co","Wholesale Trade",NA
+"Mississippi","Colorado","inflow_to_co","Retail Trade",NA
+"Mississippi","Colorado","inflow_to_co","Transportation and Warehousing",NA
+"Mississippi","Colorado","inflow_to_co","Information",NA
+"Mississippi","Colorado","inflow_to_co","Finance and Insurance",NA
+"Mississippi","Colorado","inflow_to_co","Real Estate and Rental and Leasing",NA
+"Mississippi","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",NA
+"Mississippi","Colorado","inflow_to_co","Management of Companies and Enterprises",NA
+"Mississippi","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",NA
+"Mississippi","Colorado","inflow_to_co","Educational Services",NA
+"Mississippi","Colorado","inflow_to_co","Health Care and Social Assistance",NA
+"Mississippi","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",NA
+"Mississippi","Colorado","inflow_to_co","Accommodation and Food Services",NA
+"Mississippi","Colorado","inflow_to_co","Other Services (except Public Administration)",NA
+"Mississippi","Colorado","inflow_to_co","Public Administration",NA
+"Missouri","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",6
+"Missouri","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",4
+"Missouri","Colorado","inflow_to_co","Utilities",1
+"Missouri","Colorado","inflow_to_co","Construction",38
+"Missouri","Colorado","inflow_to_co","Manufacturing",22
+"Missouri","Colorado","inflow_to_co","Wholesale Trade",27
+"Missouri","Colorado","inflow_to_co","Retail Trade",49
+"Missouri","Colorado","inflow_to_co","Transportation and Warehousing",37
+"Missouri","Colorado","inflow_to_co","Information",16
+"Missouri","Colorado","inflow_to_co","Finance and Insurance",26
+"Missouri","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Missouri","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",83
+"Missouri","Colorado","inflow_to_co","Management of Companies and Enterprises",11
+"Missouri","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",68
+"Missouri","Colorado","inflow_to_co","Educational Services",34
+"Missouri","Colorado","inflow_to_co","Health Care and Social Assistance",82
+"Missouri","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",20
+"Missouri","Colorado","inflow_to_co","Accommodation and Food Services",70
+"Missouri","Colorado","inflow_to_co","Other Services (except Public Administration)",16
+"Missouri","Colorado","inflow_to_co","Public Administration",8
+"Montana","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",4
+"Montana","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",5
+"Montana","Colorado","inflow_to_co","Utilities",2
+"Montana","Colorado","inflow_to_co","Construction",50
+"Montana","Colorado","inflow_to_co","Manufacturing",13
+"Montana","Colorado","inflow_to_co","Wholesale Trade",8
+"Montana","Colorado","inflow_to_co","Retail Trade",28
+"Montana","Colorado","inflow_to_co","Transportation and Warehousing",12
+"Montana","Colorado","inflow_to_co","Information",4
+"Montana","Colorado","inflow_to_co","Finance and Insurance",6
+"Montana","Colorado","inflow_to_co","Real Estate and Rental and Leasing",4
+"Montana","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",29
+"Montana","Colorado","inflow_to_co","Management of Companies and Enterprises",5
+"Montana","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",27
+"Montana","Colorado","inflow_to_co","Educational Services",14
+"Montana","Colorado","inflow_to_co","Health Care and Social Assistance",39
+"Montana","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",17
+"Montana","Colorado","inflow_to_co","Accommodation and Food Services",47
+"Montana","Colorado","inflow_to_co","Other Services (except Public Administration)",10
+"Montana","Colorado","inflow_to_co","Public Administration",7
+"Nebraska","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",12
+"Nebraska","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",4
+"Nebraska","Colorado","inflow_to_co","Utilities",2
+"Nebraska","Colorado","inflow_to_co","Construction",49
+"Nebraska","Colorado","inflow_to_co","Manufacturing",23
+"Nebraska","Colorado","inflow_to_co","Wholesale Trade",19
+"Nebraska","Colorado","inflow_to_co","Retail Trade",44
+"Nebraska","Colorado","inflow_to_co","Transportation and Warehousing",26
+"Nebraska","Colorado","inflow_to_co","Information",13
+"Nebraska","Colorado","inflow_to_co","Finance and Insurance",21
+"Nebraska","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Nebraska","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",47
+"Nebraska","Colorado","inflow_to_co","Management of Companies and Enterprises",7
+"Nebraska","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",57
+"Nebraska","Colorado","inflow_to_co","Educational Services",28
+"Nebraska","Colorado","inflow_to_co","Health Care and Social Assistance",67
+"Nebraska","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",14
+"Nebraska","Colorado","inflow_to_co","Accommodation and Food Services",57
+"Nebraska","Colorado","inflow_to_co","Other Services (except Public Administration)",14
+"Nebraska","Colorado","inflow_to_co","Public Administration",11
+"Nevada","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Nevada","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",9
+"Nevada","Colorado","inflow_to_co","Utilities",1
+"Nevada","Colorado","inflow_to_co","Construction",46
+"Nevada","Colorado","inflow_to_co","Manufacturing",17
+"Nevada","Colorado","inflow_to_co","Wholesale Trade",18
+"Nevada","Colorado","inflow_to_co","Retail Trade",46
+"Nevada","Colorado","inflow_to_co","Transportation and Warehousing",72
+"Nevada","Colorado","inflow_to_co","Information",7
+"Nevada","Colorado","inflow_to_co","Finance and Insurance",14
+"Nevada","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Nevada","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",47
+"Nevada","Colorado","inflow_to_co","Management of Companies and Enterprises",7
+"Nevada","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",46
+"Nevada","Colorado","inflow_to_co","Educational Services",22
+"Nevada","Colorado","inflow_to_co","Health Care and Social Assistance",40
+"Nevada","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",12
+"Nevada","Colorado","inflow_to_co","Accommodation and Food Services",71
+"Nevada","Colorado","inflow_to_co","Other Services (except Public Administration)",11
+"Nevada","Colorado","inflow_to_co","Public Administration",8
+"New Hampshire","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"New Hampshire","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"New Hampshire","Colorado","inflow_to_co","Utilities",0
+"New Hampshire","Colorado","inflow_to_co","Construction",5
+"New Hampshire","Colorado","inflow_to_co","Manufacturing",4
+"New Hampshire","Colorado","inflow_to_co","Wholesale Trade",5
+"New Hampshire","Colorado","inflow_to_co","Retail Trade",6
+"New Hampshire","Colorado","inflow_to_co","Transportation and Warehousing",3
+"New Hampshire","Colorado","inflow_to_co","Information",2
+"New Hampshire","Colorado","inflow_to_co","Finance and Insurance",5
+"New Hampshire","Colorado","inflow_to_co","Real Estate and Rental and Leasing",1
+"New Hampshire","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",15
+"New Hampshire","Colorado","inflow_to_co","Management of Companies and Enterprises",3
+"New Hampshire","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",15
+"New Hampshire","Colorado","inflow_to_co","Educational Services",6
+"New Hampshire","Colorado","inflow_to_co","Health Care and Social Assistance",14
+"New Hampshire","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",6
+"New Hampshire","Colorado","inflow_to_co","Accommodation and Food Services",14
+"New Hampshire","Colorado","inflow_to_co","Other Services (except Public Administration)",2
+"New Hampshire","Colorado","inflow_to_co","Public Administration",2
+"New Jersey","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"New Jersey","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"New Jersey","Colorado","inflow_to_co","Utilities",1
+"New Jersey","Colorado","inflow_to_co","Construction",11
+"New Jersey","Colorado","inflow_to_co","Manufacturing",12
+"New Jersey","Colorado","inflow_to_co","Wholesale Trade",10
+"New Jersey","Colorado","inflow_to_co","Retail Trade",19
+"New Jersey","Colorado","inflow_to_co","Transportation and Warehousing",39
+"New Jersey","Colorado","inflow_to_co","Information",9
+"New Jersey","Colorado","inflow_to_co","Finance and Insurance",15
+"New Jersey","Colorado","inflow_to_co","Real Estate and Rental and Leasing",7
+"New Jersey","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",55
+"New Jersey","Colorado","inflow_to_co","Management of Companies and Enterprises",7
+"New Jersey","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",23
+"New Jersey","Colorado","inflow_to_co","Educational Services",15
+"New Jersey","Colorado","inflow_to_co","Health Care and Social Assistance",29
+"New Jersey","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",8
+"New Jersey","Colorado","inflow_to_co","Accommodation and Food Services",33
+"New Jersey","Colorado","inflow_to_co","Other Services (except Public Administration)",9
+"New Jersey","Colorado","inflow_to_co","Public Administration",2
+"New Mexico","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",8
+"New Mexico","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",25
+"New Mexico","Colorado","inflow_to_co","Utilities",2
+"New Mexico","Colorado","inflow_to_co","Construction",83
+"New Mexico","Colorado","inflow_to_co","Manufacturing",25
+"New Mexico","Colorado","inflow_to_co","Wholesale Trade",19
+"New Mexico","Colorado","inflow_to_co","Retail Trade",95
+"New Mexico","Colorado","inflow_to_co","Transportation and Warehousing",44
+"New Mexico","Colorado","inflow_to_co","Information",10
+"New Mexico","Colorado","inflow_to_co","Finance and Insurance",16
+"New Mexico","Colorado","inflow_to_co","Real Estate and Rental and Leasing",13
+"New Mexico","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",69
+"New Mexico","Colorado","inflow_to_co","Management of Companies and Enterprises",11
+"New Mexico","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",88
+"New Mexico","Colorado","inflow_to_co","Educational Services",43
+"New Mexico","Colorado","inflow_to_co","Health Care and Social Assistance",120
+"New Mexico","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",33
+"New Mexico","Colorado","inflow_to_co","Accommodation and Food Services",104
+"New Mexico","Colorado","inflow_to_co","Other Services (except Public Administration)",16
+"New Mexico","Colorado","inflow_to_co","Public Administration",22
+"New York","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"New York","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"New York","Colorado","inflow_to_co","Utilities",1
+"New York","Colorado","inflow_to_co","Construction",26
+"New York","Colorado","inflow_to_co","Manufacturing",27
+"New York","Colorado","inflow_to_co","Wholesale Trade",27
+"New York","Colorado","inflow_to_co","Retail Trade",45
+"New York","Colorado","inflow_to_co","Transportation and Warehousing",24
+"New York","Colorado","inflow_to_co","Information",58
+"New York","Colorado","inflow_to_co","Finance and Insurance",54
+"New York","Colorado","inflow_to_co","Real Estate and Rental and Leasing",11
+"New York","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",202
+"New York","Colorado","inflow_to_co","Management of Companies and Enterprises",19
+"New York","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",67
+"New York","Colorado","inflow_to_co","Educational Services",56
+"New York","Colorado","inflow_to_co","Health Care and Social Assistance",79
+"New York","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",43
+"New York","Colorado","inflow_to_co","Accommodation and Food Services",94
+"New York","Colorado","inflow_to_co","Other Services (except Public Administration)",26
+"New York","Colorado","inflow_to_co","Public Administration",10
+"North Carolina","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",NA
+"North Carolina","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",NA
+"North Carolina","Colorado","inflow_to_co","Utilities",NA
+"North Carolina","Colorado","inflow_to_co","Construction",NA
+"North Carolina","Colorado","inflow_to_co","Manufacturing",NA
+"North Carolina","Colorado","inflow_to_co","Wholesale Trade",NA
+"North Carolina","Colorado","inflow_to_co","Retail Trade",NA
+"North Carolina","Colorado","inflow_to_co","Transportation and Warehousing",NA
+"North Carolina","Colorado","inflow_to_co","Information",NA
+"North Carolina","Colorado","inflow_to_co","Finance and Insurance",NA
+"North Carolina","Colorado","inflow_to_co","Real Estate and Rental and Leasing",NA
+"North Carolina","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",NA
+"North Carolina","Colorado","inflow_to_co","Management of Companies and Enterprises",NA
+"North Carolina","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",NA
+"North Carolina","Colorado","inflow_to_co","Educational Services",NA
+"North Carolina","Colorado","inflow_to_co","Health Care and Social Assistance",NA
+"North Carolina","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",NA
+"North Carolina","Colorado","inflow_to_co","Accommodation and Food Services",NA
+"North Carolina","Colorado","inflow_to_co","Other Services (except Public Administration)",NA
+"North Carolina","Colorado","inflow_to_co","Public Administration",NA
+"North Dakota","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"North Dakota","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",28
+"North Dakota","Colorado","inflow_to_co","Utilities",0
+"North Dakota","Colorado","inflow_to_co","Construction",36
+"North Dakota","Colorado","inflow_to_co","Manufacturing",4
+"North Dakota","Colorado","inflow_to_co","Wholesale Trade",7
+"North Dakota","Colorado","inflow_to_co","Retail Trade",12
+"North Dakota","Colorado","inflow_to_co","Transportation and Warehousing",11
+"North Dakota","Colorado","inflow_to_co","Information",3
+"North Dakota","Colorado","inflow_to_co","Finance and Insurance",3
+"North Dakota","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"North Dakota","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",16
+"North Dakota","Colorado","inflow_to_co","Management of Companies and Enterprises",3
+"North Dakota","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",21
+"North Dakota","Colorado","inflow_to_co","Educational Services",5
+"North Dakota","Colorado","inflow_to_co","Health Care and Social Assistance",18
+"North Dakota","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",3
+"North Dakota","Colorado","inflow_to_co","Accommodation and Food Services",13
+"North Dakota","Colorado","inflow_to_co","Other Services (except Public Administration)",5
+"North Dakota","Colorado","inflow_to_co","Public Administration",2
+"Ohio","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",3
+"Ohio","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",5
+"Ohio","Colorado","inflow_to_co","Utilities",1
+"Ohio","Colorado","inflow_to_co","Construction",26
+"Ohio","Colorado","inflow_to_co","Manufacturing",23
+"Ohio","Colorado","inflow_to_co","Wholesale Trade",31
+"Ohio","Colorado","inflow_to_co","Retail Trade",36
+"Ohio","Colorado","inflow_to_co","Transportation and Warehousing",32
+"Ohio","Colorado","inflow_to_co","Information",13
+"Ohio","Colorado","inflow_to_co","Finance and Insurance",26
+"Ohio","Colorado","inflow_to_co","Real Estate and Rental and Leasing",13
+"Ohio","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",83
+"Ohio","Colorado","inflow_to_co","Management of Companies and Enterprises",13
+"Ohio","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",52
+"Ohio","Colorado","inflow_to_co","Educational Services",31
+"Ohio","Colorado","inflow_to_co","Health Care and Social Assistance",69
+"Ohio","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",21
+"Ohio","Colorado","inflow_to_co","Accommodation and Food Services",63
+"Ohio","Colorado","inflow_to_co","Other Services (except Public Administration)",12
+"Ohio","Colorado","inflow_to_co","Public Administration",8
+"Oklahoma","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",4
+"Oklahoma","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",19
+"Oklahoma","Colorado","inflow_to_co","Utilities",1
+"Oklahoma","Colorado","inflow_to_co","Construction",51
+"Oklahoma","Colorado","inflow_to_co","Manufacturing",15
+"Oklahoma","Colorado","inflow_to_co","Wholesale Trade",14
+"Oklahoma","Colorado","inflow_to_co","Retail Trade",43
+"Oklahoma","Colorado","inflow_to_co","Transportation and Warehousing",34
+"Oklahoma","Colorado","inflow_to_co","Information",10
+"Oklahoma","Colorado","inflow_to_co","Finance and Insurance",13
+"Oklahoma","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"Oklahoma","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",48
+"Oklahoma","Colorado","inflow_to_co","Management of Companies and Enterprises",7
+"Oklahoma","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",42
+"Oklahoma","Colorado","inflow_to_co","Educational Services",25
+"Oklahoma","Colorado","inflow_to_co","Health Care and Social Assistance",45
+"Oklahoma","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",11
+"Oklahoma","Colorado","inflow_to_co","Accommodation and Food Services",56
+"Oklahoma","Colorado","inflow_to_co","Other Services (except Public Administration)",12
+"Oklahoma","Colorado","inflow_to_co","Public Administration",7
+"Oregon","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Oregon","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",3
+"Oregon","Colorado","inflow_to_co","Utilities",2
+"Oregon","Colorado","inflow_to_co","Construction",29
+"Oregon","Colorado","inflow_to_co","Manufacturing",16
+"Oregon","Colorado","inflow_to_co","Wholesale Trade",20
+"Oregon","Colorado","inflow_to_co","Retail Trade",47
+"Oregon","Colorado","inflow_to_co","Transportation and Warehousing",30
+"Oregon","Colorado","inflow_to_co","Information",11
+"Oregon","Colorado","inflow_to_co","Finance and Insurance",13
+"Oregon","Colorado","inflow_to_co","Real Estate and Rental and Leasing",11
+"Oregon","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",58
+"Oregon","Colorado","inflow_to_co","Management of Companies and Enterprises",6
+"Oregon","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",58
+"Oregon","Colorado","inflow_to_co","Educational Services",27
+"Oregon","Colorado","inflow_to_co","Health Care and Social Assistance",65
+"Oregon","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",15
+"Oregon","Colorado","inflow_to_co","Accommodation and Food Services",60
+"Oregon","Colorado","inflow_to_co","Other Services (except Public Administration)",11
+"Oregon","Colorado","inflow_to_co","Public Administration",10
+"Pennsylvania","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Pennsylvania","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",8
+"Pennsylvania","Colorado","inflow_to_co","Utilities",2
+"Pennsylvania","Colorado","inflow_to_co","Construction",29
+"Pennsylvania","Colorado","inflow_to_co","Manufacturing",23
+"Pennsylvania","Colorado","inflow_to_co","Wholesale Trade",27
+"Pennsylvania","Colorado","inflow_to_co","Retail Trade",42
+"Pennsylvania","Colorado","inflow_to_co","Transportation and Warehousing",27
+"Pennsylvania","Colorado","inflow_to_co","Information",21
+"Pennsylvania","Colorado","inflow_to_co","Finance and Insurance",23
+"Pennsylvania","Colorado","inflow_to_co","Real Estate and Rental and Leasing",10
+"Pennsylvania","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",87
+"Pennsylvania","Colorado","inflow_to_co","Management of Companies and Enterprises",10
+"Pennsylvania","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",47
+"Pennsylvania","Colorado","inflow_to_co","Educational Services",32
+"Pennsylvania","Colorado","inflow_to_co","Health Care and Social Assistance",58
+"Pennsylvania","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",17
+"Pennsylvania","Colorado","inflow_to_co","Accommodation and Food Services",57
+"Pennsylvania","Colorado","inflow_to_co","Other Services (except Public Administration)",13
+"Pennsylvania","Colorado","inflow_to_co","Public Administration",5
+"Rhode Island","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"Rhode Island","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Rhode Island","Colorado","inflow_to_co","Utilities",0
+"Rhode Island","Colorado","inflow_to_co","Construction",2
+"Rhode Island","Colorado","inflow_to_co","Manufacturing",1
+"Rhode Island","Colorado","inflow_to_co","Wholesale Trade",1
+"Rhode Island","Colorado","inflow_to_co","Retail Trade",3
+"Rhode Island","Colorado","inflow_to_co","Transportation and Warehousing",0
+"Rhode Island","Colorado","inflow_to_co","Information",2
+"Rhode Island","Colorado","inflow_to_co","Finance and Insurance",3
+"Rhode Island","Colorado","inflow_to_co","Real Estate and Rental and Leasing",0
+"Rhode Island","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",6
+"Rhode Island","Colorado","inflow_to_co","Management of Companies and Enterprises",2
+"Rhode Island","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",3
+"Rhode Island","Colorado","inflow_to_co","Educational Services",3
+"Rhode Island","Colorado","inflow_to_co","Health Care and Social Assistance",3
+"Rhode Island","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",2
+"Rhode Island","Colorado","inflow_to_co","Accommodation and Food Services",7
+"Rhode Island","Colorado","inflow_to_co","Other Services (except Public Administration)",1
+"Rhode Island","Colorado","inflow_to_co","Public Administration",1
+"South Carolina","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"South Carolina","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"South Carolina","Colorado","inflow_to_co","Utilities",0
+"South Carolina","Colorado","inflow_to_co","Construction",14
+"South Carolina","Colorado","inflow_to_co","Manufacturing",9
+"South Carolina","Colorado","inflow_to_co","Wholesale Trade",12
+"South Carolina","Colorado","inflow_to_co","Retail Trade",20
+"South Carolina","Colorado","inflow_to_co","Transportation and Warehousing",14
+"South Carolina","Colorado","inflow_to_co","Information",7
+"South Carolina","Colorado","inflow_to_co","Finance and Insurance",9
+"South Carolina","Colorado","inflow_to_co","Real Estate and Rental and Leasing",9
+"South Carolina","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",33
+"South Carolina","Colorado","inflow_to_co","Management of Companies and Enterprises",5
+"South Carolina","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",33
+"South Carolina","Colorado","inflow_to_co","Educational Services",17
+"South Carolina","Colorado","inflow_to_co","Health Care and Social Assistance",36
+"South Carolina","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",10
+"South Carolina","Colorado","inflow_to_co","Accommodation and Food Services",41
+"South Carolina","Colorado","inflow_to_co","Other Services (except Public Administration)",9
+"South Carolina","Colorado","inflow_to_co","Public Administration",3
+"South Dakota","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"South Dakota","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"South Dakota","Colorado","inflow_to_co","Utilities",2
+"South Dakota","Colorado","inflow_to_co","Construction",15
+"South Dakota","Colorado","inflow_to_co","Manufacturing",7
+"South Dakota","Colorado","inflow_to_co","Wholesale Trade",8
+"South Dakota","Colorado","inflow_to_co","Retail Trade",16
+"South Dakota","Colorado","inflow_to_co","Transportation and Warehousing",8
+"South Dakota","Colorado","inflow_to_co","Information",3
+"South Dakota","Colorado","inflow_to_co","Finance and Insurance",5
+"South Dakota","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"South Dakota","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",12
+"South Dakota","Colorado","inflow_to_co","Management of Companies and Enterprises",4
+"South Dakota","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",16
+"South Dakota","Colorado","inflow_to_co","Educational Services",8
+"South Dakota","Colorado","inflow_to_co","Health Care and Social Assistance",26
+"South Dakota","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",9
+"South Dakota","Colorado","inflow_to_co","Accommodation and Food Services",26
+"South Dakota","Colorado","inflow_to_co","Other Services (except Public Administration)",4
+"South Dakota","Colorado","inflow_to_co","Public Administration",4
+"Tennessee","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Tennessee","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Tennessee","Colorado","inflow_to_co","Utilities",1
+"Tennessee","Colorado","inflow_to_co","Construction",34
+"Tennessee","Colorado","inflow_to_co","Manufacturing",15
+"Tennessee","Colorado","inflow_to_co","Wholesale Trade",23
+"Tennessee","Colorado","inflow_to_co","Retail Trade",39
+"Tennessee","Colorado","inflow_to_co","Transportation and Warehousing",42
+"Tennessee","Colorado","inflow_to_co","Information",15
+"Tennessee","Colorado","inflow_to_co","Finance and Insurance",22
+"Tennessee","Colorado","inflow_to_co","Real Estate and Rental and Leasing",11
+"Tennessee","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",73
+"Tennessee","Colorado","inflow_to_co","Management of Companies and Enterprises",11
+"Tennessee","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",64
+"Tennessee","Colorado","inflow_to_co","Educational Services",33
+"Tennessee","Colorado","inflow_to_co","Health Care and Social Assistance",62
+"Tennessee","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",16
+"Tennessee","Colorado","inflow_to_co","Accommodation and Food Services",65
+"Tennessee","Colorado","inflow_to_co","Other Services (except Public Administration)",14
+"Tennessee","Colorado","inflow_to_co","Public Administration",8
+"Texas","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",26
+"Texas","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",128
+"Texas","Colorado","inflow_to_co","Utilities",17
+"Texas","Colorado","inflow_to_co","Construction",399
+"Texas","Colorado","inflow_to_co","Manufacturing",145
+"Texas","Colorado","inflow_to_co","Wholesale Trade",180
+"Texas","Colorado","inflow_to_co","Retail Trade",314
+"Texas","Colorado","inflow_to_co","Transportation and Warehousing",420
+"Texas","Colorado","inflow_to_co","Information",139
+"Texas","Colorado","inflow_to_co","Finance and Insurance",171
+"Texas","Colorado","inflow_to_co","Real Estate and Rental and Leasing",79
+"Texas","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",567
+"Texas","Colorado","inflow_to_co","Management of Companies and Enterprises",73
+"Texas","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",407
+"Texas","Colorado","inflow_to_co","Educational Services",195
+"Texas","Colorado","inflow_to_co","Health Care and Social Assistance",378
+"Texas","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",90
+"Texas","Colorado","inflow_to_co","Accommodation and Food Services",445
+"Texas","Colorado","inflow_to_co","Other Services (except Public Administration)",97
+"Texas","Colorado","inflow_to_co","Public Administration",52
+"Utah","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",3
+"Utah","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",40
+"Utah","Colorado","inflow_to_co","Utilities",1
+"Utah","Colorado","inflow_to_co","Construction",105
+"Utah","Colorado","inflow_to_co","Manufacturing",26
+"Utah","Colorado","inflow_to_co","Wholesale Trade",35
+"Utah","Colorado","inflow_to_co","Retail Trade",62
+"Utah","Colorado","inflow_to_co","Transportation and Warehousing",95
+"Utah","Colorado","inflow_to_co","Information",13
+"Utah","Colorado","inflow_to_co","Finance and Insurance",28
+"Utah","Colorado","inflow_to_co","Real Estate and Rental and Leasing",15
+"Utah","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",81
+"Utah","Colorado","inflow_to_co","Management of Companies and Enterprises",12
+"Utah","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",84
+"Utah","Colorado","inflow_to_co","Educational Services",33
+"Utah","Colorado","inflow_to_co","Health Care and Social Assistance",79
+"Utah","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",38
+"Utah","Colorado","inflow_to_co","Accommodation and Food Services",100
+"Utah","Colorado","inflow_to_co","Other Services (except Public Administration)",21
+"Utah","Colorado","inflow_to_co","Public Administration",13
+"Vermont","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",0
+"Vermont","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",0
+"Vermont","Colorado","inflow_to_co","Utilities",1
+"Vermont","Colorado","inflow_to_co","Construction",3
+"Vermont","Colorado","inflow_to_co","Manufacturing",1
+"Vermont","Colorado","inflow_to_co","Wholesale Trade",2
+"Vermont","Colorado","inflow_to_co","Retail Trade",6
+"Vermont","Colorado","inflow_to_co","Transportation and Warehousing",1
+"Vermont","Colorado","inflow_to_co","Information",2
+"Vermont","Colorado","inflow_to_co","Finance and Insurance",2
+"Vermont","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"Vermont","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",9
+"Vermont","Colorado","inflow_to_co","Management of Companies and Enterprises",2
+"Vermont","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",8
+"Vermont","Colorado","inflow_to_co","Educational Services",6
+"Vermont","Colorado","inflow_to_co","Health Care and Social Assistance",13
+"Vermont","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",5
+"Vermont","Colorado","inflow_to_co","Accommodation and Food Services",14
+"Vermont","Colorado","inflow_to_co","Other Services (except Public Administration)",3
+"Vermont","Colorado","inflow_to_co","Public Administration",1
+"Virginia","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"Virginia","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Virginia","Colorado","inflow_to_co","Utilities",2
+"Virginia","Colorado","inflow_to_co","Construction",31
+"Virginia","Colorado","inflow_to_co","Manufacturing",18
+"Virginia","Colorado","inflow_to_co","Wholesale Trade",26
+"Virginia","Colorado","inflow_to_co","Retail Trade",42
+"Virginia","Colorado","inflow_to_co","Transportation and Warehousing",50
+"Virginia","Colorado","inflow_to_co","Information",40
+"Virginia","Colorado","inflow_to_co","Finance and Insurance",22
+"Virginia","Colorado","inflow_to_co","Real Estate and Rental and Leasing",10
+"Virginia","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",187
+"Virginia","Colorado","inflow_to_co","Management of Companies and Enterprises",9
+"Virginia","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",56
+"Virginia","Colorado","inflow_to_co","Educational Services",41
+"Virginia","Colorado","inflow_to_co","Health Care and Social Assistance",64
+"Virginia","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",16
+"Virginia","Colorado","inflow_to_co","Accommodation and Food Services",52
+"Virginia","Colorado","inflow_to_co","Other Services (except Public Administration)",16
+"Virginia","Colorado","inflow_to_co","Public Administration",9
+"Washington","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",3
+"Washington","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"Washington","Colorado","inflow_to_co","Utilities",2
+"Washington","Colorado","inflow_to_co","Construction",46
+"Washington","Colorado","inflow_to_co","Manufacturing",32
+"Washington","Colorado","inflow_to_co","Wholesale Trade",37
+"Washington","Colorado","inflow_to_co","Retail Trade",77
+"Washington","Colorado","inflow_to_co","Transportation and Warehousing",55
+"Washington","Colorado","inflow_to_co","Information",39
+"Washington","Colorado","inflow_to_co","Finance and Insurance",22
+"Washington","Colorado","inflow_to_co","Real Estate and Rental and Leasing",16
+"Washington","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",133
+"Washington","Colorado","inflow_to_co","Management of Companies and Enterprises",13
+"Washington","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",98
+"Washington","Colorado","inflow_to_co","Educational Services",39
+"Washington","Colorado","inflow_to_co","Health Care and Social Assistance",93
+"Washington","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",21
+"Washington","Colorado","inflow_to_co","Accommodation and Food Services",89
+"Washington","Colorado","inflow_to_co","Other Services (except Public Administration)",21
+"Washington","Colorado","inflow_to_co","Public Administration",11
+"West Virginia","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",1
+"West Virginia","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",2
+"West Virginia","Colorado","inflow_to_co","Utilities",1
+"West Virginia","Colorado","inflow_to_co","Construction",3
+"West Virginia","Colorado","inflow_to_co","Manufacturing",2
+"West Virginia","Colorado","inflow_to_co","Wholesale Trade",2
+"West Virginia","Colorado","inflow_to_co","Retail Trade",4
+"West Virginia","Colorado","inflow_to_co","Transportation and Warehousing",2
+"West Virginia","Colorado","inflow_to_co","Information",1
+"West Virginia","Colorado","inflow_to_co","Finance and Insurance",0
+"West Virginia","Colorado","inflow_to_co","Real Estate and Rental and Leasing",2
+"West Virginia","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",7
+"West Virginia","Colorado","inflow_to_co","Management of Companies and Enterprises",1
+"West Virginia","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",7
+"West Virginia","Colorado","inflow_to_co","Educational Services",3
+"West Virginia","Colorado","inflow_to_co","Health Care and Social Assistance",8
+"West Virginia","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",5
+"West Virginia","Colorado","inflow_to_co","Accommodation and Food Services",8
+"West Virginia","Colorado","inflow_to_co","Other Services (except Public Administration)",2
+"West Virginia","Colorado","inflow_to_co","Public Administration",1
+"Wisconsin","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",2
+"Wisconsin","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",1
+"Wisconsin","Colorado","inflow_to_co","Utilities",0
+"Wisconsin","Colorado","inflow_to_co","Construction",28
+"Wisconsin","Colorado","inflow_to_co","Manufacturing",20
+"Wisconsin","Colorado","inflow_to_co","Wholesale Trade",24
+"Wisconsin","Colorado","inflow_to_co","Retail Trade",35
+"Wisconsin","Colorado","inflow_to_co","Transportation and Warehousing",24
+"Wisconsin","Colorado","inflow_to_co","Information",12
+"Wisconsin","Colorado","inflow_to_co","Finance and Insurance",16
+"Wisconsin","Colorado","inflow_to_co","Real Estate and Rental and Leasing",8
+"Wisconsin","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",63
+"Wisconsin","Colorado","inflow_to_co","Management of Companies and Enterprises",8
+"Wisconsin","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",43
+"Wisconsin","Colorado","inflow_to_co","Educational Services",28
+"Wisconsin","Colorado","inflow_to_co","Health Care and Social Assistance",71
+"Wisconsin","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",13
+"Wisconsin","Colorado","inflow_to_co","Accommodation and Food Services",52
+"Wisconsin","Colorado","inflow_to_co","Other Services (except Public Administration)",15
+"Wisconsin","Colorado","inflow_to_co","Public Administration",5
+"Wyoming","Colorado","inflow_to_co","Agriculture, Forestry, Fishing and Hunting",4
+"Wyoming","Colorado","inflow_to_co","Mining, Quarrying, and Oil and Gas Extraction",70
+"Wyoming","Colorado","inflow_to_co","Utilities",2
+"Wyoming","Colorado","inflow_to_co","Construction",114
+"Wyoming","Colorado","inflow_to_co","Manufacturing",21
+"Wyoming","Colorado","inflow_to_co","Wholesale Trade",26
+"Wyoming","Colorado","inflow_to_co","Retail Trade",70
+"Wyoming","Colorado","inflow_to_co","Transportation and Warehousing",36
+"Wyoming","Colorado","inflow_to_co","Information",11
+"Wyoming","Colorado","inflow_to_co","Finance and Insurance",13
+"Wyoming","Colorado","inflow_to_co","Real Estate and Rental and Leasing",15
+"Wyoming","Colorado","inflow_to_co","Professional, Scientific, and Technical Services",41
+"Wyoming","Colorado","inflow_to_co","Management of Companies and Enterprises",8
+"Wyoming","Colorado","inflow_to_co","Administrative and Support and Waste Management and Remediation Services",66
+"Wyoming","Colorado","inflow_to_co","Educational Services",36
+"Wyoming","Colorado","inflow_to_co","Health Care and Social Assistance",74
+"Wyoming","Colorado","inflow_to_co","Arts, Entertainment, and Recreation",16
+"Wyoming","Colorado","inflow_to_co","Accommodation and Food Services",66
+"Wyoming","Colorado","inflow_to_co","Other Services (except Public Administration)",24
+"Wyoming","Colorado","inflow_to_co","Public Administration",19
